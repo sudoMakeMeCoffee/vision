@@ -1,1 +1,2 @@
 - [2023-05-01] Update CMake configuration
+- [2023-05-01] Cleanup logging statements
