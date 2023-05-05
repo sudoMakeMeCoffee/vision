@@ -6,3 +6,4 @@
 - [2023-05-01] Add unit tests for ImageProcessor
 - [2023-05-05] Optimize convolution operation
 - [2023-05-05] Add color conversion routines
+- [2023-05-05] Optimize convolution operation
