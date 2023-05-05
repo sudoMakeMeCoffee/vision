@@ -4,3 +4,4 @@
 - [2023-05-01] Optimize convolution operation
 - [2023-05-01] Update CMake configuration
 - [2023-05-01] Add unit tests for ImageProcessor
+- [2023-05-05] Optimize convolution operation
