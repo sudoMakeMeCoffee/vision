@@ -18,3 +18,4 @@
 - [2023-05-12] Cleanup logging statements
 - [2023-05-12] Add image loading module
 - [2023-05-12] Optimize convolution operation
+- [2023-05-12] Optimize convolution operation
