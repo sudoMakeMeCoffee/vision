@@ -10,3 +10,4 @@
 - [2023-05-05] Fix null pointer bug in frame handler
 - [2023-05-12] Add FFT processing utility
 - [2023-05-12] Optimize convolution operation
+- [2023-05-12] Improve error handling in utils
