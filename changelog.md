@@ -17,3 +17,4 @@
 - [2023-05-12] Initialize vision repo structure
 - [2023-05-12] Cleanup logging statements
 - [2023-05-12] Add image loading module
+- [2023-05-12] Optimize convolution operation
