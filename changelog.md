@@ -23,3 +23,4 @@
 - [2023-05-17] Optimize convolution operation
 - [2023-05-17] Optimize convolution operation
 - [2023-05-17] Implement edge detection class
+- [2023-05-17] Cleanup logging statements
