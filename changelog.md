@@ -20,3 +20,4 @@
 - [2023-05-12] Optimize convolution operation
 - [2023-05-12] Optimize convolution operation
 - [2023-05-12] Improve error handling in utils
+- [2023-05-17] Optimize convolution operation
