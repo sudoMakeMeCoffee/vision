@@ -30,3 +30,4 @@
 - [2023-05-18] Improve error handling in utils
 - [2023-05-18] Optimize convolution operation
 - [2023-05-18] Initialize vision repo structure
+- [2023-05-18] Cleanup logging statements
