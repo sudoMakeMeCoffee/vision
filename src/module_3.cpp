@@ -7,3 +7,4 @@
 // 2023-05-17 commit 1\nint threshold = abs(a - b);
 // 2023-05-17 commit 4\nusing namespace std;
 // 2023-05-18 commit 1\nstd::vector<double> window;
+// 2023-05-18 commit 3\n#define MAX_BUFFER 256
