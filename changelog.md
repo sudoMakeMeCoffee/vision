@@ -33,3 +33,4 @@
 - [2023-05-18] Cleanup logging statements
 - [2023-05-18] Add FFT processing utility
 - [2023-05-18] Cleanup logging statements
+- [2023-05-18] Add color conversion routines
