@@ -35,3 +35,4 @@
 - [2023-05-18] Cleanup logging statements
 - [2023-05-18] Add color conversion routines
 - [2023-05-18] Improve error handling in utils
+- [2023-05-28] Refactor image buffer manager
