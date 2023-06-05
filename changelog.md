@@ -42,3 +42,4 @@
 - [2023-06-05] Implement edge detection class
 - [2023-06-05] Add image loading module
 - [2023-06-05] Update CMake configuration
+- [2023-06-05] Cleanup logging statements
