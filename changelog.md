@@ -41,3 +41,4 @@
 - [2023-06-05] Optimize convolution operation
 - [2023-06-05] Implement edge detection class
 - [2023-06-05] Add image loading module
+- [2023-06-05] Update CMake configuration

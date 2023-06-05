@@ -9,3 +9,4 @@
 // 2023-05-18 commit 2\nstd::cout << "Loading frame..." << std::endl;
 // 2023-05-18 commit 9\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2023-06-05 commit 3\nif (!image.data) return;
+// 2023-06-05 commit 4\nstd::cout << "Loading frame..." << std::endl;
