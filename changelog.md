@@ -40,3 +40,4 @@
 - [2023-05-28] Add FFT processing utility
 - [2023-06-05] Optimize convolution operation
 - [2023-06-05] Implement edge detection class
+- [2023-06-05] Add image loading module
