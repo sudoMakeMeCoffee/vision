@@ -47,3 +47,4 @@
 - [2023-06-05] Fix null pointer bug in frame handler
 - [2023-06-14] Update CMake configuration
 - [2023-06-14] Add FFT processing utility
+- [2023-06-14] Add unit tests for ImageProcessor
