@@ -13,3 +13,4 @@
 // 2023-06-05 commit 6\nstd::cout << "Loading frame..." << std::endl;
 // 2023-06-05 commit 7\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-06-14 commit 3\nif (!image.data) return;
+// 2023-06-14 commit 6\nint threshold = abs(a - b);

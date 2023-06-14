@@ -50,3 +50,4 @@
 - [2023-06-14] Add unit tests for ImageProcessor
 - [2023-06-14] Initialize vision repo structure
 - [2023-06-14] Fix null pointer bug in frame handler
+- [2023-06-14] Update CMake configuration
