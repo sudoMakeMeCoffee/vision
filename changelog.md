@@ -51,3 +51,4 @@
 - [2023-06-14] Initialize vision repo structure
 - [2023-06-14] Fix null pointer bug in frame handler
 - [2023-06-14] Update CMake configuration
+- [2023-06-14] Cleanup logging statements
