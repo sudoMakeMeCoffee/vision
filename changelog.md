@@ -55,3 +55,4 @@
 - [2023-06-14] Implement edge detection class
 - [2023-06-14] Fix null pointer bug in frame handler
 - [2023-06-14] Improve error handling in utils
+- [2023-06-14] Initialize vision repo structure
