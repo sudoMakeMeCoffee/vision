@@ -10,3 +10,4 @@
 // 2023-05-28 commit 2\nint threshold = abs(a - b);
 // 2023-05-28 commit 3\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2023-06-14 commit 7\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
+// 2023-06-14 commit 13\n#define MAX_BUFFER 256
