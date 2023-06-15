@@ -12,3 +12,4 @@
 // 2023-06-14 commit 7\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2023-06-14 commit 13\n#define MAX_BUFFER 256
 // 2023-06-15 commit 3\nvoid processImage() { /* stub */ }
+// 2023-06-15 commit 8\nusing namespace std;

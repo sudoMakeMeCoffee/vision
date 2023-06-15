@@ -65,3 +65,4 @@
 - [2023-06-15] Initialize vision repo structure
 - [2023-06-15] Update CMake configuration
 - [2023-06-15] Improve error handling in utils
+- [2023-06-15] Optimize convolution operation
