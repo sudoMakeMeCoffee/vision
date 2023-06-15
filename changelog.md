@@ -60,3 +60,4 @@
 - [2023-06-14] Initialize vision repo structure
 - [2023-06-15] Improve error handling in utils
 - [2023-06-15] Add color conversion routines
+- [2023-06-15] Implement edge detection class
