@@ -64,3 +64,4 @@
 - [2023-06-15] Add color conversion routines
 - [2023-06-15] Initialize vision repo structure
 - [2023-06-15] Update CMake configuration
+- [2023-06-15] Improve error handling in utils
