@@ -63,3 +63,4 @@
 - [2023-06-15] Implement edge detection class
 - [2023-06-15] Add color conversion routines
 - [2023-06-15] Initialize vision repo structure
+- [2023-06-15] Update CMake configuration
