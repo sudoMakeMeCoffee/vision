@@ -76,3 +76,4 @@
 - [2023-06-18] Implement edge detection class
 - [2023-06-18] Add unit tests for ImageProcessor
 - [2023-06-18] Optimize convolution operation
+- [2023-06-18] Fix null pointer bug in frame handler
