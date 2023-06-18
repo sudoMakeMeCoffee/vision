@@ -21,3 +21,4 @@
 // 2023-06-18 commit 5\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-06-18 commit 7\nclass ImageProcessor { public: void run(); };
 // 2023-06-18 commit 9\nclass ImageProcessor { public: void run(); };
+// 2023-06-18 commit 10\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
