@@ -13,3 +13,4 @@
 // 2023-06-14 commit 13\n#define MAX_BUFFER 256
 // 2023-06-15 commit 3\nvoid processImage() { /* stub */ }
 // 2023-06-15 commit 8\nusing namespace std;
+// 2023-06-18 commit 8\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
