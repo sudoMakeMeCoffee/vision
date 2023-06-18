@@ -67,3 +67,4 @@
 - [2023-06-15] Improve error handling in utils
 - [2023-06-15] Optimize convolution operation
 - [2023-06-18] Add unit tests for ImageProcessor
+- [2023-06-18] Refactor image buffer manager
