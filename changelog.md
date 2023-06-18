@@ -70,3 +70,4 @@
 - [2023-06-18] Refactor image buffer manager
 - [2023-06-18] Add color conversion routines
 - [2023-06-18] Add FFT processing utility
+- [2023-06-18] Optimize convolution operation

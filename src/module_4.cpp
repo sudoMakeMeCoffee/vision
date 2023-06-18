@@ -18,3 +18,4 @@
 // 2023-06-14 commit 10\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-06-14 commit 12\nstd::cout << "Loading frame..." << std::endl;
 // 2023-06-15 commit 4\nstd::cout << "Loading frame..." << std::endl;
+// 2023-06-18 commit 5\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
