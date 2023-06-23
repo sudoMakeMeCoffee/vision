@@ -25,3 +25,4 @@
 // 2023-06-23 commit 3\nusing namespace std;
 // 2023-06-23 commit 5\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2023-06-23 commit 7\nstd::cout << "Loading frame..." << std::endl;
+// 2023-06-23 commit 9\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
