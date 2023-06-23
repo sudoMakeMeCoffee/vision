@@ -80,3 +80,4 @@
 - [2023-06-23] Improve error handling in utils
 - [2023-06-23] Implement edge detection class
 - [2023-06-23] Add color conversion routines
+- [2023-06-23] Add color conversion routines
