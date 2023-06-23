@@ -82,3 +82,4 @@
 - [2023-06-23] Add color conversion routines
 - [2023-06-23] Add color conversion routines
 - [2023-06-23] Cleanup logging statements
+- [2023-06-23] Update CMake configuration

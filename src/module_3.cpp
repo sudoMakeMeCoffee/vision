@@ -23,3 +23,4 @@
 // 2023-06-18 commit 4\nint threshold = abs(a - b);
 // 2023-06-18 commit 6\nint threshold = abs(a - b);
 // 2023-06-23 commit 2\nusing namespace std;
+// 2023-06-23 commit 6\nclass ImageProcessor { public: void run(); };
