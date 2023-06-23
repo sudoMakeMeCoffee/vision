@@ -78,3 +78,4 @@
 - [2023-06-18] Optimize convolution operation
 - [2023-06-18] Fix null pointer bug in frame handler
 - [2023-06-23] Improve error handling in utils
+- [2023-06-23] Implement edge detection class
