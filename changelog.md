@@ -84,3 +84,4 @@
 - [2023-06-23] Cleanup logging statements
 - [2023-06-23] Update CMake configuration
 - [2023-06-23] Add unit tests for ImageProcessor
+- [2023-06-23] Improve error handling in utils
