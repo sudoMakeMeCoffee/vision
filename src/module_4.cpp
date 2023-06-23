@@ -23,3 +23,4 @@
 // 2023-06-18 commit 9\nclass ImageProcessor { public: void run(); };
 // 2023-06-18 commit 10\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-06-23 commit 3\nusing namespace std;
+// 2023-06-23 commit 5\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
