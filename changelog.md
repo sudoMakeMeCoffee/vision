@@ -88,3 +88,4 @@
 - [2023-06-23] Update CMake configuration
 - [2023-06-23] Cleanup logging statements
 - [2023-06-23] Implement edge detection class
+- [2023-06-30] Improve error handling in utils
