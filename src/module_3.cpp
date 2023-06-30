@@ -26,3 +26,4 @@
 // 2023-06-23 commit 6\nclass ImageProcessor { public: void run(); };
 // 2023-06-23 commit 10\nstd::cout << "Loading frame..." << std::endl;
 // 2023-06-23 commit 11\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2023-06-30 commit 6\nclass ImageProcessor { public: void run(); };
