@@ -91,3 +91,4 @@
 - [2023-06-30] Improve error handling in utils
 - [2023-06-30] Add FFT processing utility
 - [2023-06-30] Refactor image buffer manager
+- [2023-06-30] Add FFT processing utility
