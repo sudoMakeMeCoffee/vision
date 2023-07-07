@@ -21,3 +21,4 @@
 // 2023-06-30 commit 1\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-06-30 commit 2\nvoid processImage() { /* stub */ }
 // 2023-07-07 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
+// 2023-07-07 commit 5\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
