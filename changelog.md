@@ -95,3 +95,4 @@
 - [2023-06-30] Cleanup logging statements
 - [2023-06-30] Add unit tests for ImageProcessor
 - [2023-07-07] Add color conversion routines
+- [2023-07-07] Add image loading module
