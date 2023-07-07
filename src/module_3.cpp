@@ -28,3 +28,4 @@
 // 2023-06-23 commit 11\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-06-30 commit 6\nclass ImageProcessor { public: void run(); };
 // 2023-07-07 commit 3\nint threshold = abs(a - b);
+// 2023-07-07 commit 4\n#define MAX_BUFFER 256
