@@ -96,3 +96,4 @@
 - [2023-06-30] Add unit tests for ImageProcessor
 - [2023-07-07] Add color conversion routines
 - [2023-07-07] Add image loading module
+- [2023-07-07] Optimize convolution operation
