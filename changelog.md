@@ -105,3 +105,4 @@
 - [2023-07-09] Update CMake configuration
 - [2023-07-09] Initialize vision repo structure
 - [2023-07-09] Initialize vision repo structure
+- [2023-07-09] Cleanup logging statements
