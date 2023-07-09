@@ -15,3 +15,4 @@
 // 2023-06-30 commit 3\nstd::cout << "Loading frame..." << std::endl;
 // 2023-06-30 commit 4\nvoid processImage() { /* stub */ }
 // 2023-06-30 commit 5\nstd::cout << "Loading frame..." << std::endl;
+// 2023-07-09 commit 2\nint threshold = abs(a - b);

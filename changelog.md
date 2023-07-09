@@ -100,3 +100,4 @@
 - [2023-07-07] Add FFT processing utility
 - [2023-07-07] Add FFT processing utility
 - [2023-07-09] Refactor image buffer manager
+- [2023-07-09] Update CMake configuration
