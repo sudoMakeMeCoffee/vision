@@ -107,3 +107,4 @@
 - [2023-07-09] Initialize vision repo structure
 - [2023-07-09] Cleanup logging statements
 - [2023-07-09] Initialize vision repo structure
+- [2023-07-09] Refactor image buffer manager
