@@ -28,3 +28,4 @@
 // 2023-06-23 commit 9\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-07-07 commit 1\nvoid processImage() { /* stub */ }
 // 2023-07-09 commit 9\nif (!image.data) return;
+// 2023-07-09 commit 10\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
