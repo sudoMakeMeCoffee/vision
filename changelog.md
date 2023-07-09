@@ -102,3 +102,4 @@
 - [2023-07-09] Refactor image buffer manager
 - [2023-07-09] Update CMake configuration
 - [2023-07-09] Implement edge detection class
+- [2023-07-09] Update CMake configuration
