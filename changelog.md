@@ -99,3 +99,4 @@
 - [2023-07-07] Optimize convolution operation
 - [2023-07-07] Add FFT processing utility
 - [2023-07-07] Add FFT processing utility
+- [2023-07-09] Refactor image buffer manager
