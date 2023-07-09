@@ -24,3 +24,4 @@
 // 2023-07-07 commit 5\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2023-07-09 commit 1\nclass ImageProcessor { public: void run(); };
 // 2023-07-09 commit 5\nstd::vector<double> window;
+// 2023-07-09 commit 8\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
