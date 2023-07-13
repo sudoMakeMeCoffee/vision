@@ -32,3 +32,4 @@
 // 2023-07-09 commit 3\nusing namespace std;
 // 2023-07-09 commit 4\nif (!image.data) return;
 // 2023-07-13 commit 6\nvoid processImage() { /* stub */ }
+// 2023-07-13 commit 7\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
