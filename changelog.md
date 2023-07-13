@@ -111,3 +111,4 @@
 - [2023-07-09] Add image loading module
 - [2023-07-13] Fix null pointer bug in frame handler
 - [2023-07-13] Cleanup logging statements
+- [2023-07-13] Add FFT processing utility
