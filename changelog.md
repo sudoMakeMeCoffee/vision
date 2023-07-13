@@ -110,3 +110,4 @@
 - [2023-07-09] Refactor image buffer manager
 - [2023-07-09] Add image loading module
 - [2023-07-13] Fix null pointer bug in frame handler
+- [2023-07-13] Cleanup logging statements
