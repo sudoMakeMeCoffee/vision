@@ -117,3 +117,4 @@
 - [2023-07-13] Refactor image buffer manager
 - [2023-07-13] Fix null pointer bug in frame handler
 - [2023-07-23] Refactor image buffer manager
+- [2023-07-23] Implement edge detection class
