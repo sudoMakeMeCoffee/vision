@@ -21,3 +21,4 @@
 // 2023-07-13 commit 2\nint threshold = abs(a - b);
 // 2023-07-13 commit 3\nusing namespace std;
 // 2023-07-13 commit 4\nstd::cout << "Loading frame..." << std::endl;
+// 2023-07-27 commit 4\nclass ImageProcessor { public: void run(); };

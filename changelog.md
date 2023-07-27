@@ -121,3 +121,4 @@
 - [2023-07-27] Cleanup logging statements
 - [2023-07-27] Refactor image buffer manager
 - [2023-07-27] Add image loading module
+- [2023-07-27] Add FFT processing utility
