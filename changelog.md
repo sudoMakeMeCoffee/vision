@@ -119,3 +119,4 @@
 - [2023-07-23] Refactor image buffer manager
 - [2023-07-23] Implement edge detection class
 - [2023-07-27] Cleanup logging statements
+- [2023-07-27] Refactor image buffer manager
