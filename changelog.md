@@ -125,3 +125,4 @@
 - [2023-08-02] Add color conversion routines
 - [2023-08-02] Refactor image buffer manager
 - [2023-08-02] Refactor image buffer manager
+- [2023-08-02] Implement edge detection class
