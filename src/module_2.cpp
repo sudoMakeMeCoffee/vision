@@ -32,3 +32,4 @@
 // 2023-08-02 commit 4\nstd::vector<double> window;
 // 2023-08-02 commit 6\n#define MAX_BUFFER 256
 // 2023-08-02 commit 7\nstd::cout << "Loading frame..." << std::endl;
+// 2023-08-02 commit 11\nusing namespace std;
