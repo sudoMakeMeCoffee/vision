@@ -22,3 +22,4 @@
 // 2023-07-13 commit 3\nusing namespace std;
 // 2023-07-13 commit 4\nstd::cout << "Loading frame..." << std::endl;
 // 2023-07-27 commit 4\nclass ImageProcessor { public: void run(); };
+// 2023-08-02 commit 5\ncv::Mat edges; cv::Canny(src, edges, 100, 200);

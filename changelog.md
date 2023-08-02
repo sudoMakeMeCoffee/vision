@@ -126,3 +126,4 @@
 - [2023-08-02] Refactor image buffer manager
 - [2023-08-02] Refactor image buffer manager
 - [2023-08-02] Implement edge detection class
+- [2023-08-02] Add image loading module
