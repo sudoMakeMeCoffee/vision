@@ -131,3 +131,4 @@
 - [2023-08-02] Implement edge detection class
 - [2023-08-02] Add unit tests for ImageProcessor
 - [2023-08-02] Improve error handling in utils
+- [2023-08-02] Cleanup logging statements

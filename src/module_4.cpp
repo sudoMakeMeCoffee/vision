@@ -35,3 +35,4 @@
 // 2023-08-02 commit 1\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2023-08-02 commit 2\nclass ImageProcessor { public: void run(); };
 // 2023-08-02 commit 8\nusing namespace std;
+// 2023-08-02 commit 10\n#define MAX_BUFFER 256
