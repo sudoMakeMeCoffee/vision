@@ -136,3 +136,4 @@
 - [2023-08-14] Improve error handling in utils
 - [2023-08-14] Add image loading module
 - [2023-08-14] Add FFT processing utility
+- [2023-08-14] Optimize convolution operation
