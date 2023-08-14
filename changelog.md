@@ -134,3 +134,4 @@
 - [2023-08-02] Cleanup logging statements
 - [2023-08-02] Add image loading module
 - [2023-08-14] Improve error handling in utils
+- [2023-08-14] Add image loading module

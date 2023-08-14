@@ -36,3 +36,4 @@
 // 2023-07-27 commit 2\nint threshold = abs(a - b);
 // 2023-08-02 commit 9\nint threshold = abs(a - b);
 // 2023-08-14 commit 1\nif (!image.data) return;
+// 2023-08-14 commit 2\nstd::cout << "Loading frame..." << std::endl;
