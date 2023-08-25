@@ -139,3 +139,4 @@
 - [2023-08-14] Optimize convolution operation
 - [2023-08-25] Update CMake configuration
 - [2023-08-25] Refactor image buffer manager
+- [2023-08-25] Cleanup logging statements
