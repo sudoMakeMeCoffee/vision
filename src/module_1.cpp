@@ -23,3 +23,4 @@
 // 2023-07-13 commit 4\nstd::cout << "Loading frame..." << std::endl;
 // 2023-07-27 commit 4\nclass ImageProcessor { public: void run(); };
 // 2023-08-02 commit 5\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
+// 2023-08-25 commit 1\nint threshold = abs(a - b);
