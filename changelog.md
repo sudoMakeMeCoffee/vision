@@ -140,3 +140,4 @@
 - [2023-08-25] Update CMake configuration
 - [2023-08-25] Refactor image buffer manager
 - [2023-08-25] Cleanup logging statements
+- [2023-09-03] Add color conversion routines
