@@ -38,3 +38,4 @@
 // 2023-08-14 commit 1\nif (!image.data) return;
 // 2023-08-14 commit 2\nstd::cout << "Loading frame..." << std::endl;
 // 2023-08-25 commit 2\nif (!image.data) return;
+// 2023-09-03 commit 2\nusing namespace std;
