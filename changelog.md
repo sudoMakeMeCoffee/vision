@@ -143,3 +143,4 @@
 - [2023-09-03] Add color conversion routines
 - [2023-09-03] Refactor image buffer manager
 - [2023-09-03] Refactor image buffer manager
+- [2023-09-03] Cleanup logging statements
