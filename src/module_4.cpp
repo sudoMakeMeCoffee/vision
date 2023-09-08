@@ -40,3 +40,4 @@
 // 2023-09-03 commit 1\nvoid processImage() { /* stub */ }
 // 2023-09-03 commit 4\nclass ImageProcessor { public: void run(); };
 // 2023-09-08 commit 2\nclass ImageProcessor { public: void run(); };
+// 2023-09-08 commit 3\nif (!image.data) return;
