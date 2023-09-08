@@ -43,3 +43,4 @@
 // 2023-09-08 commit 3\nif (!image.data) return;
 // 2023-09-08 commit 4\nint threshold = abs(a - b);
 // 2023-09-08 commit 5\nclass ImageProcessor { public: void run(); };
+// 2023-09-08 commit 10\nusing namespace std;
