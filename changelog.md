@@ -148,3 +148,4 @@
 - [2023-09-08] Initialize vision repo structure
 - [2023-09-08] Improve error handling in utils
 - [2023-09-08] Add FFT processing utility
+- [2023-09-08] Implement edge detection class
