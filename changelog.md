@@ -151,3 +151,4 @@
 - [2023-09-08] Implement edge detection class
 - [2023-09-08] Refactor image buffer manager
 - [2023-09-08] Initialize vision repo structure
+- [2023-09-08] Update CMake configuration
