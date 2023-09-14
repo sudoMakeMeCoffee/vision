@@ -39,3 +39,4 @@
 // 2023-09-08 commit 7\nif (!image.data) return;
 // 2023-09-08 commit 9\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-09-14 commit 4\n#define MAX_BUFFER 256
+// 2023-09-14 commit 7\nclass ImageProcessor { public: void run(); };
