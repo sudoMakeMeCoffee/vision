@@ -156,3 +156,4 @@
 - [2023-09-08] Fix null pointer bug in frame handler
 - [2023-09-14] Add FFT processing utility
 - [2023-09-14] Update CMake configuration
+- [2023-09-14] Initialize vision repo structure
