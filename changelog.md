@@ -159,3 +159,4 @@
 - [2023-09-14] Initialize vision repo structure
 - [2023-09-14] Add unit tests for ImageProcessor
 - [2023-09-14] Update CMake configuration
+- [2023-09-14] Optimize convolution operation
