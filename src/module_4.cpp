@@ -44,3 +44,4 @@
 // 2023-09-08 commit 4\nint threshold = abs(a - b);
 // 2023-09-08 commit 5\nclass ImageProcessor { public: void run(); };
 // 2023-09-08 commit 10\nusing namespace std;
+// 2023-09-14 commit 1\n#define MAX_BUFFER 256
