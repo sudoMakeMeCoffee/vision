@@ -26,3 +26,4 @@
 // 2023-08-25 commit 1\nint threshold = abs(a - b);
 // 2023-09-03 commit 3\nclass ImageProcessor { public: void run(); };
 // 2023-09-08 commit 1\nif (!image.data) return;
+// 2023-09-14 commit 2\nint threshold = abs(a - b);
