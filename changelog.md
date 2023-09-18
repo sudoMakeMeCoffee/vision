@@ -164,3 +164,4 @@
 - [2023-09-18] Fix null pointer bug in frame handler
 - [2023-09-18] Add unit tests for ImageProcessor
 - [2023-09-18] Add unit tests for ImageProcessor
+- [2023-09-18] Optimize convolution operation
