@@ -161,3 +161,4 @@
 - [2023-09-14] Update CMake configuration
 - [2023-09-14] Optimize convolution operation
 - [2023-09-14] Initialize vision repo structure
+- [2023-09-18] Fix null pointer bug in frame handler
