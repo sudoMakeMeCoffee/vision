@@ -169,3 +169,4 @@
 - [2023-09-22] Fix null pointer bug in frame handler
 - [2023-09-22] Add color conversion routines
 - [2023-09-22] Implement edge detection class
+- [2023-09-22] Improve error handling in utils

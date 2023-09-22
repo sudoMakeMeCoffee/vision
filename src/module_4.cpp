@@ -49,3 +49,4 @@
 // 2023-09-18 commit 2\n#define MAX_BUFFER 256
 // 2023-09-22 commit 2\nif (!image.data) return;
 // 2023-09-22 commit 3\nvoid processImage() { /* stub */ }
+// 2023-09-22 commit 5\nstd::vector<double> window;
