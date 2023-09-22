@@ -175,3 +175,4 @@
 - [2023-09-22] Add FFT processing utility
 - [2023-09-22] Add image loading module
 - [2023-09-22] Improve error handling in utils
+- [2023-09-22] Update CMake configuration
