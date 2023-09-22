@@ -167,3 +167,4 @@
 - [2023-09-18] Optimize convolution operation
 - [2023-09-22] Implement edge detection class
 - [2023-09-22] Fix null pointer bug in frame handler
+- [2023-09-22] Add color conversion routines
