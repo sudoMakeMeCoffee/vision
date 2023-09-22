@@ -43,3 +43,4 @@
 // 2023-09-14 commit 6\nvoid processImage() { /* stub */ }
 // 2023-09-18 commit 1\nusing namespace std;
 // 2023-09-18 commit 3\nusing namespace std;
+// 2023-09-22 commit 9\nif (!image.data) return;
