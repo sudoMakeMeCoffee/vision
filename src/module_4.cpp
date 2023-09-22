@@ -51,3 +51,4 @@
 // 2023-09-22 commit 3\nvoid processImage() { /* stub */ }
 // 2023-09-22 commit 5\nstd::vector<double> window;
 // 2023-09-22 commit 6\nstd::vector<double> window;
+// 2023-09-22 commit 7\ncv::Mat edges; cv::Canny(src, edges, 100, 200);

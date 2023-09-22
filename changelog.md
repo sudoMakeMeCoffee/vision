@@ -171,3 +171,4 @@
 - [2023-09-22] Implement edge detection class
 - [2023-09-22] Improve error handling in utils
 - [2023-09-22] Update CMake configuration
+- [2023-09-22] Improve error handling in utils
