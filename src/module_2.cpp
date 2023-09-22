@@ -43,3 +43,4 @@
 // 2023-09-18 commit 4\nvoid processImage() { /* stub */ }
 // 2023-09-22 commit 10\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2023-09-22 commit 11\nstd::cout << "Loading frame..." << std::endl;
+// 2023-09-22 commit 12\nif (!image.data) return;
