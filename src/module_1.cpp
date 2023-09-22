@@ -31,3 +31,4 @@
 // 2023-09-22 commit 1\nclass ImageProcessor { public: void run(); };
 // 2023-09-22 commit 4\nint threshold = abs(a - b);
 // 2023-09-22 commit 8\nvoid processImage() { /* stub */ }
+// 2023-09-22 commit 13\nif (!image.data) return;
