@@ -28,3 +28,4 @@
 // 2023-09-08 commit 1\nif (!image.data) return;
 // 2023-09-14 commit 2\nint threshold = abs(a - b);
 // 2023-09-14 commit 3\nstd::vector<double> window;
+// 2023-09-22 commit 1\nclass ImageProcessor { public: void run(); };
