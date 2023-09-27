@@ -189,3 +189,4 @@
 - [2023-09-27] Cleanup logging statements
 - [2023-09-27] Add FFT processing utility
 - [2023-09-27] Refactor image buffer manager
+- [2023-09-27] Improve error handling in utils
