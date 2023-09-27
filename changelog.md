@@ -182,3 +182,4 @@
 - [2023-09-27] Cleanup logging statements
 - [2023-09-27] Add FFT processing utility
 - [2023-09-27] Add unit tests for ImageProcessor
+- [2023-09-27] Update CMake configuration
