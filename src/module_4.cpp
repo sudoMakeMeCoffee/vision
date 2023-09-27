@@ -56,3 +56,4 @@
 // 2023-09-27 commit 4\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2023-09-27 commit 6\nvoid processImage() { /* stub */ }
 // 2023-09-27 commit 7\nint threshold = abs(a - b);
+// 2023-09-27 commit 12\nif (!image.data) return;
