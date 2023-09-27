@@ -44,3 +44,4 @@
 // 2023-09-18 commit 1\nusing namespace std;
 // 2023-09-18 commit 3\nusing namespace std;
 // 2023-09-22 commit 9\nif (!image.data) return;
+// 2023-09-27 commit 9\nclass ImageProcessor { public: void run(); };
