@@ -180,3 +180,4 @@
 - [2023-09-22] Implement edge detection class
 - [2023-09-25] Add unit tests for ImageProcessor
 - [2023-09-27] Cleanup logging statements
+- [2023-09-27] Add FFT processing utility
