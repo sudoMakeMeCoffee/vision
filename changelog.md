@@ -185,3 +185,4 @@
 - [2023-09-27] Update CMake configuration
 - [2023-09-27] Update CMake configuration
 - [2023-09-27] Initialize vision repo structure
+- [2023-09-27] Add unit tests for ImageProcessor
