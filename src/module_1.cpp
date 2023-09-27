@@ -33,3 +33,4 @@
 // 2023-09-22 commit 8\nvoid processImage() { /* stub */ }
 // 2023-09-22 commit 13\nif (!image.data) return;
 // 2023-09-27 commit 3\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2023-09-27 commit 8\n#define MAX_BUFFER 256
