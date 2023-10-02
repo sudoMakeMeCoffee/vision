@@ -198,3 +198,4 @@
 - [2023-10-02] Optimize convolution operation
 - [2023-10-02] Add color conversion routines
 - [2023-10-02] Add image loading module
+- [2023-10-02] Initialize vision repo structure

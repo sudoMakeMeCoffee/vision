@@ -40,3 +40,4 @@
 // 2023-10-02 commit 4\nclass ImageProcessor { public: void run(); };
 // 2023-10-02 commit 5\nstd::vector<double> window;
 // 2023-10-02 commit 6\nstd::vector<double> window;
+// 2023-10-02 commit 8\nstd::vector<double> window;
