@@ -195,3 +195,4 @@
 - [2023-10-02] Update CMake configuration
 - [2023-10-02] Add color conversion routines
 - [2023-10-02] Optimize convolution operation
+- [2023-10-02] Optimize convolution operation
