@@ -192,3 +192,4 @@
 - [2023-09-27] Improve error handling in utils
 - [2023-09-27] Update CMake configuration
 - [2023-10-02] Refactor image buffer manager
+- [2023-10-02] Update CMake configuration
