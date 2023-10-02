@@ -59,3 +59,4 @@
 // 2023-09-27 commit 12\nif (!image.data) return;
 // 2023-10-02 commit 1\nstd::vector<double> window;
 // 2023-10-02 commit 7\nstd::cout << "Loading frame..." << std::endl;
+// 2023-10-02 commit 11\nusing namespace std;
