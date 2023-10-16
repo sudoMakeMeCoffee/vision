@@ -205,3 +205,4 @@
 - [2023-10-02] Optimize convolution operation
 - [2023-10-16] Add image loading module
 - [2023-10-16] Fix null pointer bug in frame handler
+- [2023-10-16] Implement edge detection class
