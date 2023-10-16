@@ -51,3 +51,4 @@
 // 2023-10-16 commit 5\nstd::cout << "Loading frame..." << std::endl;
 // 2023-10-16 commit 6\nusing namespace std;
 // 2023-10-16 commit 11\nvoid processImage() { /* stub */ }
+// 2023-10-16 commit 12\nclass ImageProcessor { public: void run(); };
