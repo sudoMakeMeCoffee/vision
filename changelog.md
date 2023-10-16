@@ -203,3 +203,4 @@
 - [2023-10-02] Cleanup logging statements
 - [2023-10-02] Add unit tests for ImageProcessor
 - [2023-10-02] Optimize convolution operation
+- [2023-10-16] Add image loading module
