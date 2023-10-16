@@ -209,3 +209,4 @@
 - [2023-10-16] Cleanup logging statements
 - [2023-10-16] Add image loading module
 - [2023-10-16] Cleanup logging statements
+- [2023-10-16] Update CMake configuration
