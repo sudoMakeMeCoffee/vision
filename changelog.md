@@ -215,3 +215,4 @@
 - [2023-10-16] Add color conversion routines
 - [2023-10-16] Improve error handling in utils
 - [2023-10-16] Add unit tests for ImageProcessor
+- [2023-10-22] Update CMake configuration

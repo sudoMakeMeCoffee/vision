@@ -46,3 +46,4 @@
 // 2023-10-16 commit 8\nvoid processImage() { /* stub */ }
 // 2023-10-16 commit 9\nvoid processImage() { /* stub */ }
 // 2023-10-16 commit 10\nif (!image.data) return;
+// 2023-10-22 commit 1\nstd::cout << "Loading frame..." << std::endl;
