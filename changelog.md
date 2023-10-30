@@ -223,3 +223,4 @@
 - [2023-10-30] Add color conversion routines
 - [2023-10-30] Optimize convolution operation
 - [2023-10-30] Optimize convolution operation
+- [2023-10-30] Add image loading module

@@ -54,3 +54,4 @@
 // 2023-10-16 commit 12\nclass ImageProcessor { public: void run(); };
 // 2023-10-30 commit 1\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-10-30 commit 3\nstd::vector<double> window;
+// 2023-10-30 commit 7\n#define MAX_BUFFER 256
