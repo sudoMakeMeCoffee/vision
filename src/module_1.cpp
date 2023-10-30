@@ -48,3 +48,4 @@
 // 2023-10-16 commit 10\nif (!image.data) return;
 // 2023-10-22 commit 1\nstd::cout << "Loading frame..." << std::endl;
 // 2023-10-30 commit 4\n#define MAX_BUFFER 256
+// 2023-10-30 commit 5\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
