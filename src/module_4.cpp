@@ -63,3 +63,4 @@
 // 2023-10-16 commit 7\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-10-22 commit 2\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-10-30 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
+// 2023-10-30 commit 8\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
