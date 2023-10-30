@@ -220,3 +220,4 @@
 - [2023-10-30] Update CMake configuration
 - [2023-10-30] Update CMake configuration
 - [2023-10-30] Add FFT processing utility
+- [2023-10-30] Add color conversion routines
