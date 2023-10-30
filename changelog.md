@@ -227,3 +227,4 @@
 - [2023-10-30] Add FFT processing utility
 - [2023-10-30] Add FFT processing utility
 - [2023-10-30] Cleanup logging statements
+- [2023-10-30] Update CMake configuration
