@@ -226,3 +226,4 @@
 - [2023-10-30] Add image loading module
 - [2023-10-30] Add FFT processing utility
 - [2023-10-30] Add FFT processing utility
+- [2023-10-30] Cleanup logging statements
