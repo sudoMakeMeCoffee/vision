@@ -229,3 +229,4 @@
 - [2023-10-30] Cleanup logging statements
 - [2023-10-30] Update CMake configuration
 - [2023-11-02] Add image loading module
+- [2023-11-02] Initialize vision repo structure
