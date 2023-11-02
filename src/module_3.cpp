@@ -57,3 +57,4 @@
 // 2023-10-30 commit 7\n#define MAX_BUFFER 256
 // 2023-11-02 commit 1\nint threshold = abs(a - b);
 // 2023-11-02 commit 2\nclass ImageProcessor { public: void run(); };
+// 2023-11-02 commit 3\nstd::vector<double> window;
