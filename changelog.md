@@ -233,3 +233,4 @@
 - [2023-11-02] Fix null pointer bug in frame handler
 - [2023-11-02] Add image loading module
 - [2023-11-02] Cleanup logging statements
+- [2023-11-02] Add unit tests for ImageProcessor
