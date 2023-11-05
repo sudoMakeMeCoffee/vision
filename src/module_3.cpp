@@ -60,3 +60,4 @@
 // 2023-11-02 commit 3\nstd::vector<double> window;
 // 2023-11-02 commit 4\nif (!image.data) return;
 // 2023-11-05 commit 2\nif (!image.data) return;
+// 2023-11-05 commit 4\nvoid processImage() { /* stub */ }

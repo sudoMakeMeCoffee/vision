@@ -237,3 +237,4 @@
 - [2023-11-05] Update CMake configuration
 - [2023-11-05] Add color conversion routines
 - [2023-11-05] Add unit tests for ImageProcessor
+- [2023-11-05] Add image loading module
