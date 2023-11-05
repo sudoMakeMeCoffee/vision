@@ -54,3 +54,4 @@
 // 2023-10-30 commit 9\n#define MAX_BUFFER 256
 // 2023-10-30 commit 11\n#define MAX_BUFFER 256
 // 2023-11-02 commit 5\nclass ImageProcessor { public: void run(); };
+// 2023-11-05 commit 5\nstd::cout << "Loading frame..." << std::endl;
