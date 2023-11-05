@@ -61,3 +61,4 @@
 // 2023-11-02 commit 4\nif (!image.data) return;
 // 2023-11-05 commit 2\nif (!image.data) return;
 // 2023-11-05 commit 4\nvoid processImage() { /* stub */ }
+// 2023-11-05 commit 6\nint threshold = abs(a - b);
