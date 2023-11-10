@@ -242,3 +242,4 @@
 - [2023-11-05] Update CMake configuration
 - [2023-11-10] Initialize vision repo structure
 - [2023-11-10] Add color conversion routines
+- [2023-11-10] Initialize vision repo structure
