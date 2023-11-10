@@ -66,3 +66,4 @@
 // 2023-10-30 commit 8\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-11-02 commit 6\nint threshold = abs(a - b);
 // 2023-11-05 commit 3\nusing namespace std;
+// 2023-11-10 commit 4\n#define MAX_BUFFER 256
