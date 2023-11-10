@@ -240,3 +240,4 @@
 - [2023-11-05] Add image loading module
 - [2023-11-05] Add FFT processing utility
 - [2023-11-05] Update CMake configuration
+- [2023-11-10] Initialize vision repo structure
