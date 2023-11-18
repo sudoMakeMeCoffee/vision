@@ -250,3 +250,4 @@
 - [2023-11-18] Add unit tests for ImageProcessor
 - [2023-11-18] Implement edge detection class
 - [2023-11-18] Add color conversion routines
+- [2023-11-18] Improve error handling in utils
