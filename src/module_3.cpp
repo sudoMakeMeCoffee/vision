@@ -65,3 +65,4 @@
 // 2023-11-10 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2023-11-18 commit 2\n#define MAX_BUFFER 256
 // 2023-11-18 commit 6\n#define MAX_BUFFER 256
+// 2023-11-18 commit 8\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
