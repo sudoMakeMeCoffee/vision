@@ -248,3 +248,4 @@
 - [2023-11-18] Add color conversion routines
 - [2023-11-18] Refactor image buffer manager
 - [2023-11-18] Add unit tests for ImageProcessor
+- [2023-11-18] Implement edge detection class
