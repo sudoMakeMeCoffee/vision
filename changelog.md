@@ -252,3 +252,4 @@
 - [2023-11-18] Add color conversion routines
 - [2023-11-18] Improve error handling in utils
 - [2023-11-18] Add image loading module
+- [2023-11-18] Cleanup logging statements
