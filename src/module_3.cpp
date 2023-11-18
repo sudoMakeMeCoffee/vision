@@ -63,3 +63,4 @@
 // 2023-11-05 commit 4\nvoid processImage() { /* stub */ }
 // 2023-11-05 commit 6\nint threshold = abs(a - b);
 // 2023-11-10 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
+// 2023-11-18 commit 2\n#define MAX_BUFFER 256
