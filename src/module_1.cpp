@@ -56,3 +56,4 @@
 // 2023-11-18 commit 5\nif (!image.data) return;
 // 2023-11-21 commit 1\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2023-11-21 commit 3\nusing namespace std;
+// 2023-11-21 commit 4\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
