@@ -260,3 +260,4 @@
 - [2023-11-21] Update CMake configuration
 - [2023-11-21] Add FFT processing utility
 - [2023-11-21] Add unit tests for ImageProcessor
+- [2023-11-21] Add color conversion routines
