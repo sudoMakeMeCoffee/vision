@@ -54,3 +54,4 @@
 // 2023-11-10 commit 3\nstd::vector<double> window;
 // 2023-11-18 commit 3\nstd::vector<double> window;
 // 2023-11-18 commit 5\nif (!image.data) return;
+// 2023-11-21 commit 1\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
