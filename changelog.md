@@ -265,3 +265,4 @@
 - [2023-11-28] Update CMake configuration
 - [2023-11-28] Add unit tests for ImageProcessor
 - [2023-11-28] Implement edge detection class
+- [2023-11-28] Add color conversion routines
