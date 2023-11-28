@@ -62,3 +62,4 @@
 // 2023-11-28 commit 1\n#define MAX_BUFFER 256
 // 2023-11-28 commit 2\nstd::vector<double> window;
 // 2023-11-28 commit 4\nstd::vector<double> window;
+// 2023-11-28 commit 6\nint threshold = abs(a - b);
