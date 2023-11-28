@@ -269,3 +269,4 @@
 - [2023-11-28] Fix null pointer bug in frame handler
 - [2023-11-28] Refactor image buffer manager
 - [2023-11-28] Cleanup logging statements
+- [2023-11-28] Update CMake configuration
