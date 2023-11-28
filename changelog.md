@@ -263,3 +263,4 @@
 - [2023-11-21] Add color conversion routines
 - [2023-11-21] Cleanup logging statements
 - [2023-11-28] Update CMake configuration
+- [2023-11-28] Add unit tests for ImageProcessor
