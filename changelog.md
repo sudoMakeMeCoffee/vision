@@ -270,3 +270,4 @@
 - [2023-11-28] Refactor image buffer manager
 - [2023-11-28] Cleanup logging statements
 - [2023-11-28] Update CMake configuration
+- [2023-11-28] Add FFT processing utility
