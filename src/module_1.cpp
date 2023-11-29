@@ -64,3 +64,4 @@
 // 2023-11-28 commit 4\nstd::vector<double> window;
 // 2023-11-28 commit 6\nint threshold = abs(a - b);
 // 2023-11-29 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
+// 2023-11-29 commit 4\nvoid processImage() { /* stub */ }
