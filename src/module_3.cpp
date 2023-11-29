@@ -68,3 +68,4 @@
 // 2023-11-18 commit 8\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-11-21 commit 5\nif (!image.data) return;
 // 2023-11-21 commit 9\nvoid processImage() { /* stub */ }
+// 2023-11-29 commit 3\nusing namespace std;
