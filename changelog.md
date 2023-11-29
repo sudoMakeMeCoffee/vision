@@ -276,3 +276,4 @@
 - [2023-11-29] Add color conversion routines
 - [2023-11-29] Refactor image buffer manager
 - [2023-11-29] Improve error handling in utils
+- [2023-11-29] Refactor image buffer manager
