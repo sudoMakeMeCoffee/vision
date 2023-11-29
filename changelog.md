@@ -273,3 +273,4 @@
 - [2023-11-28] Add FFT processing utility
 - [2023-11-28] Update CMake configuration
 - [2023-11-29] Refactor image buffer manager
+- [2023-11-29] Add color conversion routines
