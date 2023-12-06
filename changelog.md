@@ -282,3 +282,4 @@
 - [2023-12-06] Add unit tests for ImageProcessor
 - [2023-12-06] Refactor image buffer manager
 - [2023-12-06] Update CMake configuration
+- [2023-12-06] Update CMake configuration

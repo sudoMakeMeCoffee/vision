@@ -70,3 +70,4 @@
 // 2023-11-21 commit 9\nvoid processImage() { /* stub */ }
 // 2023-11-29 commit 3\nusing namespace std;
 // 2023-11-29 commit 6\nstd::vector<double> window;
+// 2023-12-06 commit 5\nint threshold = abs(a - b);
