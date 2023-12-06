@@ -63,3 +63,4 @@
 // 2023-11-29 commit 1\nclass ImageProcessor { public: void run(); };
 // 2023-12-06 commit 6\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-12-06 commit 8\nusing namespace std;
+// 2023-12-06 commit 9\nclass ImageProcessor { public: void run(); };
