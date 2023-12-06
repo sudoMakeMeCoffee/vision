@@ -279,3 +279,4 @@
 - [2023-11-29] Refactor image buffer manager
 - [2023-11-29] Cleanup logging statements
 - [2023-12-06] Implement edge detection class
+- [2023-12-06] Add unit tests for ImageProcessor
