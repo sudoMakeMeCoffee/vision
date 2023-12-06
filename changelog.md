@@ -285,3 +285,4 @@
 - [2023-12-06] Update CMake configuration
 - [2023-12-06] Cleanup logging statements
 - [2023-12-06] Improve error handling in utils
+- [2023-12-06] Improve error handling in utils
