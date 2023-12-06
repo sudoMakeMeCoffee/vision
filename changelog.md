@@ -278,3 +278,4 @@
 - [2023-11-29] Improve error handling in utils
 - [2023-11-29] Refactor image buffer manager
 - [2023-11-29] Cleanup logging statements
+- [2023-12-06] Implement edge detection class
