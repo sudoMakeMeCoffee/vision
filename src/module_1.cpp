@@ -70,3 +70,4 @@
 // 2023-12-06 commit 4\n#define MAX_BUFFER 256
 // 2023-12-06 commit 11\nvoid processImage() { /* stub */ }
 // 2023-12-10 commit 2\nclass ImageProcessor { public: void run(); };
+// 2023-12-10 commit 6\nusing namespace std;

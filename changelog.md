@@ -294,3 +294,4 @@
 - [2023-12-10] Cleanup logging statements
 - [2023-12-10] Add unit tests for ImageProcessor
 - [2023-12-10] Optimize convolution operation
+- [2023-12-10] Cleanup logging statements
