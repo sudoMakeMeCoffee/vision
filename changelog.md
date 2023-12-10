@@ -291,3 +291,4 @@
 - [2023-12-06] Update CMake configuration
 - [2023-12-10] Fix null pointer bug in frame handler
 - [2023-12-10] Add FFT processing utility
+- [2023-12-10] Cleanup logging statements
