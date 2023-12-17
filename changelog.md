@@ -299,3 +299,4 @@
 - [2023-12-17] Refactor image buffer manager
 - [2023-12-17] Cleanup logging statements
 - [2023-12-17] Refactor image buffer manager
+- [2023-12-17] Add color conversion routines
