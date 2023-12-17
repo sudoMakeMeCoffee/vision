@@ -71,3 +71,4 @@
 // 2023-12-06 commit 11\nvoid processImage() { /* stub */ }
 // 2023-12-10 commit 2\nclass ImageProcessor { public: void run(); };
 // 2023-12-10 commit 6\nusing namespace std;
+// 2023-12-17 commit 1\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
