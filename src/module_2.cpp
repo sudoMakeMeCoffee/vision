@@ -66,3 +66,4 @@
 // 2023-12-06 commit 9\nclass ImageProcessor { public: void run(); };
 // 2023-12-10 commit 5\nint threshold = abs(a - b);
 // 2023-12-17 commit 3\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2023-12-17 commit 6\nusing namespace std;
