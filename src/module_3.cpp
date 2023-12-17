@@ -72,3 +72,4 @@
 // 2023-11-29 commit 6\nstd::vector<double> window;
 // 2023-12-06 commit 5\nint threshold = abs(a - b);
 // 2023-12-10 commit 4\nstd::cout << "Loading frame..." << std::endl;
+// 2023-12-17 commit 2\nusing namespace std;
