@@ -305,3 +305,4 @@
 - [2023-12-22] Initialize vision repo structure
 - [2023-12-22] Implement edge detection class
 - [2023-12-22] Add FFT processing utility
+- [2023-12-22] Initialize vision repo structure

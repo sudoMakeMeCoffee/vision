@@ -75,3 +75,4 @@
 // 2023-12-17 commit 4\nint threshold = abs(a - b);
 // 2023-12-22 commit 2\nclass ImageProcessor { public: void run(); };
 // 2023-12-22 commit 3\nvoid processImage() { /* stub */ }
+// 2023-12-22 commit 4\nstd::vector<double> window;
