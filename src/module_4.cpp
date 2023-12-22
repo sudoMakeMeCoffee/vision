@@ -82,3 +82,4 @@
 // 2023-12-10 commit 1\nif (!image.data) return;
 // 2023-12-10 commit 3\nclass ImageProcessor { public: void run(); };
 // 2023-12-10 commit 7\nstd::cout << "Loading frame..." << std::endl;
+// 2023-12-22 commit 6\nusing namespace std;
