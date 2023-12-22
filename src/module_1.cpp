@@ -76,3 +76,4 @@
 // 2023-12-22 commit 2\nclass ImageProcessor { public: void run(); };
 // 2023-12-22 commit 3\nvoid processImage() { /* stub */ }
 // 2023-12-22 commit 4\nstd::vector<double> window;
+// 2023-12-22 commit 5\nvoid processImage() { /* stub */ }
