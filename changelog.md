@@ -302,3 +302,4 @@
 - [2023-12-17] Add color conversion routines
 - [2023-12-17] Improve error handling in utils
 - [2023-12-17] Add unit tests for ImageProcessor
+- [2023-12-22] Initialize vision repo structure
