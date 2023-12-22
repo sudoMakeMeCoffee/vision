@@ -68,3 +68,4 @@
 // 2023-12-17 commit 3\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2023-12-17 commit 6\nusing namespace std;
 // 2023-12-22 commit 1\nint threshold = abs(a - b);
+// 2023-12-22 commit 8\nint threshold = abs(a - b);
