@@ -310,3 +310,4 @@
 - [2023-12-22] Implement edge detection class
 - [2023-12-22] Optimize convolution operation
 - [2023-12-22] Optimize convolution operation
+- [2023-12-24] Implement edge detection class
