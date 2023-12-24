@@ -71,3 +71,4 @@
 // 2023-12-22 commit 8\nint threshold = abs(a - b);
 // 2023-12-24 commit 1\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2023-12-24 commit 4\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
+// 2023-12-24 commit 6\nstd::vector<double> window;
