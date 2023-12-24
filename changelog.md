@@ -314,3 +314,4 @@
 - [2023-12-24] Optimize convolution operation
 - [2023-12-24] Initialize vision repo structure
 - [2023-12-24] Refactor image buffer manager
+- [2023-12-24] Optimize convolution operation

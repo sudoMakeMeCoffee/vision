@@ -84,3 +84,4 @@
 // 2023-12-10 commit 7\nstd::cout << "Loading frame..." << std::endl;
 // 2023-12-22 commit 6\nusing namespace std;
 // 2023-12-24 commit 3\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2023-12-24 commit 5\n#define MAX_BUFFER 256
