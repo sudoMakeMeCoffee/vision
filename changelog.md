@@ -322,3 +322,4 @@
 - [2023-12-25] Refactor image buffer manager
 - [2023-12-25] Add image loading module
 - [2023-12-25] Initialize vision repo structure
+- [2023-12-25] Fix null pointer bug in frame handler
