@@ -80,3 +80,4 @@
 // 2023-12-25 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2023-12-25 commit 6\nstd::cout << "Loading frame..." << std::endl;
 // 2023-12-28 commit 4\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2023-12-28 commit 5\nvoid processImage() { /* stub */ }
