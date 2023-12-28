@@ -326,3 +326,4 @@
 - [2023-12-28] Improve error handling in utils
 - [2023-12-28] Refactor image buffer manager
 - [2023-12-28] Add image loading module
+- [2023-12-28] Improve error handling in utils
