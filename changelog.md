@@ -324,3 +324,4 @@
 - [2023-12-25] Initialize vision repo structure
 - [2023-12-25] Fix null pointer bug in frame handler
 - [2023-12-28] Improve error handling in utils
+- [2023-12-28] Refactor image buffer manager
