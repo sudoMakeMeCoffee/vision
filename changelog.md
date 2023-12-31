@@ -331,3 +331,4 @@
 - [2023-12-28] Add FFT processing utility
 - [2023-12-28] Add image loading module
 - [2023-12-31] Cleanup logging statements
+- [2023-12-31] Fix null pointer bug in frame handler

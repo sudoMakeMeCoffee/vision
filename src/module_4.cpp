@@ -87,3 +87,4 @@
 // 2023-12-24 commit 5\n#define MAX_BUFFER 256
 // 2023-12-25 commit 5\n#define MAX_BUFFER 256
 // 2023-12-28 commit 6\n#define MAX_BUFFER 256
+// 2023-12-31 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
