@@ -83,3 +83,4 @@
 // 2023-12-28 commit 2\nstd::cout << "Loading frame..." << std::endl;
 // 2023-12-28 commit 3\nstd::vector<double> window;
 // 2023-12-31 commit 4\nint threshold = abs(a - b);
+// 2023-12-31 commit 8\n#define MAX_BUFFER 256
