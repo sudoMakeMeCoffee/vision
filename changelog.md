@@ -338,3 +338,4 @@
 - [2023-12-31] Add color conversion routines
 - [2023-12-31] Add FFT processing utility
 - [2023-12-31] Add FFT processing utility
+- [2023-12-31] Cleanup logging statements
