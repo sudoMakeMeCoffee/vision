@@ -339,3 +339,4 @@
 - [2023-12-31] Add FFT processing utility
 - [2023-12-31] Add FFT processing utility
 - [2023-12-31] Cleanup logging statements
+- [2024-01-08] Refactor image buffer manager
