@@ -86,3 +86,4 @@
 // 2023-12-31 commit 8\n#define MAX_BUFFER 256
 // 2023-12-31 commit 9\nvoid processImage() { /* stub */ }
 // 2024-01-08 commit 1\nif (!image.data) return;
+// 2024-01-14 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
