@@ -346,3 +346,4 @@
 - [2024-01-14] Refactor image buffer manager
 - [2024-01-14] Update CMake configuration
 - [2024-01-14] Optimize convolution operation
+- [2024-01-14] Update CMake configuration
