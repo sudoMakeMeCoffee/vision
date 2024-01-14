@@ -345,3 +345,4 @@
 - [2024-01-08] Cleanup logging statements
 - [2024-01-14] Refactor image buffer manager
 - [2024-01-14] Update CMake configuration
+- [2024-01-14] Optimize convolution operation

@@ -91,3 +91,4 @@
 // 2023-12-31 commit 7\nif (!image.data) return;
 // 2024-01-08 commit 4\n#define MAX_BUFFER 256
 // 2024-01-14 commit 1\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2024-01-14 commit 3\nif (!image.data) return;
