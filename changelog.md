@@ -351,3 +351,4 @@
 - [2024-01-14] Add FFT processing utility
 - [2024-01-14] Optimize convolution operation
 - [2024-01-17] Add image loading module
+- [2024-01-17] Update CMake configuration
