@@ -80,3 +80,4 @@
 // 2024-01-08 commit 2\nvoid processImage() { /* stub */ }
 // 2024-01-14 commit 5\nif (!image.data) return;
 // 2024-01-14 commit 7\nif (!image.data) return;
+// 2024-01-17 commit 9\n#define MAX_BUFFER 256
