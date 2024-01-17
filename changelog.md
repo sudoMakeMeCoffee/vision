@@ -352,3 +352,4 @@
 - [2024-01-14] Optimize convolution operation
 - [2024-01-17] Add image loading module
 - [2024-01-17] Update CMake configuration
+- [2024-01-17] Add unit tests for ImageProcessor
