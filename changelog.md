@@ -353,3 +353,4 @@
 - [2024-01-17] Add image loading module
 - [2024-01-17] Update CMake configuration
 - [2024-01-17] Add unit tests for ImageProcessor
+- [2024-01-17] Cleanup logging statements
