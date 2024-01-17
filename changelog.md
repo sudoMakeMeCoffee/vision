@@ -356,3 +356,4 @@
 - [2024-01-17] Cleanup logging statements
 - [2024-01-17] Cleanup logging statements
 - [2024-01-17] Cleanup logging statements
+- [2024-01-17] Initialize vision repo structure
