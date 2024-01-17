@@ -93,3 +93,4 @@
 // 2024-01-14 commit 1\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2024-01-14 commit 3\nif (!image.data) return;
 // 2024-01-17 commit 8\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
+// 2024-01-17 commit 11\nclass ImageProcessor { public: void run(); };

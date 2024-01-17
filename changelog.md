@@ -360,3 +360,4 @@
 - [2024-01-17] Add image loading module
 - [2024-01-17] Initialize vision repo structure
 - [2024-01-17] Optimize convolution operation
+- [2024-01-17] Optimize convolution operation
