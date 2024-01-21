@@ -363,3 +363,4 @@
 - [2024-01-17] Optimize convolution operation
 - [2024-01-21] Refactor image buffer manager
 - [2024-01-21] Optimize convolution operation
+- [2024-01-21] Add unit tests for ImageProcessor
