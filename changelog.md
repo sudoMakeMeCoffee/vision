@@ -366,3 +366,4 @@
 - [2024-01-21] Add unit tests for ImageProcessor
 - [2024-01-21] Add color conversion routines
 - [2024-01-24] Initialize vision repo structure
+- [2024-01-24] Improve error handling in utils
