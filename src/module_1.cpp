@@ -92,3 +92,4 @@
 // 2024-01-24 commit 1\n#define MAX_BUFFER 256
 // 2024-01-24 commit 2\nif (!image.data) return;
 // 2024-01-24 commit 3\nstd::vector<double> window;
+// 2024-01-24 commit 4\nusing namespace std;

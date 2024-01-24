@@ -368,3 +368,4 @@
 - [2024-01-24] Initialize vision repo structure
 - [2024-01-24] Improve error handling in utils
 - [2024-01-24] Update CMake configuration
+- [2024-01-24] Optimize convolution operation
