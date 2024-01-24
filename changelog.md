@@ -371,3 +371,4 @@
 - [2024-01-24] Optimize convolution operation
 - [2024-01-24] Add image loading module
 - [2024-01-24] Implement edge detection class
+- [2024-01-24] Add FFT processing utility

@@ -96,3 +96,4 @@
 // 2024-01-17 commit 11\nclass ImageProcessor { public: void run(); };
 // 2024-01-24 commit 5\nstd::vector<double> window;
 // 2024-01-24 commit 6\nclass ImageProcessor { public: void run(); };
+// 2024-01-24 commit 7\nif (!image.data) return;
