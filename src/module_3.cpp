@@ -98,3 +98,4 @@
 // 2024-01-24 commit 8\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2024-01-30 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2024-01-30 commit 3\nint threshold = abs(a - b);
+// 2024-01-30 commit 4\nstd::cout << "Loading frame..." << std::endl;
