@@ -97,3 +97,4 @@
 // 2024-01-24 commit 5\nstd::vector<double> window;
 // 2024-01-24 commit 6\nclass ImageProcessor { public: void run(); };
 // 2024-01-24 commit 7\nif (!image.data) return;
+// 2024-01-30 commit 7\nstd::cout << "Loading frame..." << std::endl;

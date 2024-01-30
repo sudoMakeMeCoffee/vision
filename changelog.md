@@ -379,3 +379,4 @@
 - [2024-01-30] Add color conversion routines
 - [2024-01-30] Optimize convolution operation
 - [2024-01-30] Improve error handling in utils
+- [2024-01-30] Add unit tests for ImageProcessor
