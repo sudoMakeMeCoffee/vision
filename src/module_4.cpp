@@ -99,3 +99,4 @@
 // 2024-01-24 commit 7\nif (!image.data) return;
 // 2024-01-30 commit 7\nstd::cout << "Loading frame..." << std::endl;
 // 2024-01-30 commit 10\nint threshold = abs(a - b);
+// 2024-01-30 commit 11\n#define MAX_BUFFER 256
