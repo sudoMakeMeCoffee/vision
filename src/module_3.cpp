@@ -96,3 +96,4 @@
 // 2024-01-21 commit 2\nvoid processImage() { /* stub */ }
 // 2024-01-21 commit 4\n#define MAX_BUFFER 256
 // 2024-01-24 commit 8\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2024-01-30 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);

@@ -374,3 +374,4 @@
 - [2024-01-24] Add FFT processing utility
 - [2024-01-24] Add color conversion routines
 - [2024-01-30] Add FFT processing utility
+- [2024-01-30] Fix null pointer bug in frame handler
