@@ -93,3 +93,4 @@
 // 2024-01-24 commit 2\nif (!image.data) return;
 // 2024-01-24 commit 3\nstd::vector<double> window;
 // 2024-01-24 commit 4\nusing namespace std;
+// 2024-01-30 commit 1\nint threshold = abs(a - b);
