@@ -85,3 +85,4 @@
 // 2024-01-30 commit 13\nstd::cout << "Loading frame..." << std::endl;
 // 2024-02-10 commit 2\n#define MAX_BUFFER 256
 // 2024-02-10 commit 3\nvoid processImage() { /* stub */ }
+// 2024-02-10 commit 7\nstd::vector<double> window;
