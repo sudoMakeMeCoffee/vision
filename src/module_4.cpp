@@ -101,3 +101,4 @@
 // 2024-01-30 commit 10\nint threshold = abs(a - b);
 // 2024-01-30 commit 11\n#define MAX_BUFFER 256
 // 2024-02-10 commit 6\nstd::vector<double> window;
+// 2024-02-10 commit 8\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
