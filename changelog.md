@@ -387,3 +387,4 @@
 - [2024-01-30] Add FFT processing utility
 - [2024-01-30] Implement edge detection class
 - [2024-02-10] Cleanup logging statements
+- [2024-02-10] Add image loading module
