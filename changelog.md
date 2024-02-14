@@ -399,3 +399,4 @@
 - [2024-02-14] Fix null pointer bug in frame handler
 - [2024-02-14] Implement edge detection class
 - [2024-02-14] Add image loading module
+- [2024-02-14] Add FFT processing utility
