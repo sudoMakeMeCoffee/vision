@@ -100,3 +100,4 @@
 // 2024-02-10 commit 5\nstd::cout << "Loading frame..." << std::endl;
 // 2024-02-14 commit 4\n#define MAX_BUFFER 256
 // 2024-02-14 commit 6\n#define MAX_BUFFER 256
+// 2024-02-14 commit 12\nvoid processImage() { /* stub */ }
