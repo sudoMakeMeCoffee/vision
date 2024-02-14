@@ -86,3 +86,4 @@
 // 2024-02-10 commit 2\n#define MAX_BUFFER 256
 // 2024-02-10 commit 3\nvoid processImage() { /* stub */ }
 // 2024-02-10 commit 7\nstd::vector<double> window;
+// 2024-02-14 commit 3\nclass ImageProcessor { public: void run(); };
