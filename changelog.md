@@ -405,3 +405,4 @@
 - [2024-02-14] Implement edge detection class
 - [2024-02-14] Add color conversion routines
 - [2024-02-14] Add FFT processing utility
+- [2024-02-14] Update CMake configuration
