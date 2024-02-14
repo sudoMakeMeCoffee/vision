@@ -98,3 +98,4 @@
 // 2024-01-30 commit 12\nclass ImageProcessor { public: void run(); };
 // 2024-02-10 commit 4\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2024-02-10 commit 5\nstd::cout << "Loading frame..." << std::endl;
+// 2024-02-14 commit 4\n#define MAX_BUFFER 256
