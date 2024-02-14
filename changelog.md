@@ -396,3 +396,4 @@
 - [2024-02-10] Refactor image buffer manager
 - [2024-02-10] Improve error handling in utils
 - [2024-02-14] Optimize convolution operation
+- [2024-02-14] Fix null pointer bug in frame handler
