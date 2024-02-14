@@ -395,3 +395,4 @@
 - [2024-02-10] Add image loading module
 - [2024-02-10] Refactor image buffer manager
 - [2024-02-10] Improve error handling in utils
+- [2024-02-14] Optimize convolution operation
