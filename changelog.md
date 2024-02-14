@@ -403,3 +403,4 @@
 - [2024-02-14] Optimize convolution operation
 - [2024-02-14] Add image loading module
 - [2024-02-14] Implement edge detection class
+- [2024-02-14] Add color conversion routines
