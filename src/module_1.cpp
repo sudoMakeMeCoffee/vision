@@ -102,3 +102,4 @@
 // 2024-02-14 commit 6\n#define MAX_BUFFER 256
 // 2024-02-14 commit 12\nvoid processImage() { /* stub */ }
 // 2024-02-17 commit 1\nusing namespace std;
+// 2024-02-17 commit 7\nint threshold = abs(a - b);
