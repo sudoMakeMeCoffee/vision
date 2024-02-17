@@ -104,3 +104,4 @@
 // 2024-02-17 commit 1\nusing namespace std;
 // 2024-02-17 commit 7\nint threshold = abs(a - b);
 // 2024-02-17 commit 10\n#define MAX_BUFFER 256
+// 2024-02-17 commit 12\nstd::cout << "Loading frame..." << std::endl;
