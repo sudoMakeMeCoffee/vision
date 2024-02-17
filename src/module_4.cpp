@@ -104,3 +104,4 @@
 // 2024-02-10 commit 8\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2024-02-14 commit 5\nif (!image.data) return;
 // 2024-02-14 commit 7\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
+// 2024-02-17 commit 8\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
