@@ -409,3 +409,4 @@
 - [2024-02-14] Fix null pointer bug in frame handler
 - [2024-02-17] Initialize vision repo structure
 - [2024-02-17] Improve error handling in utils
+- [2024-02-17] Add unit tests for ImageProcessor
