@@ -422,3 +422,4 @@
 - [2024-02-17] Implement edge detection class
 - [2024-02-18] Add unit tests for ImageProcessor
 - [2024-02-18] Add FFT processing utility
+- [2024-02-18] Fix null pointer bug in frame handler
