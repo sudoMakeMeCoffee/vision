@@ -425,3 +425,4 @@
 - [2024-02-18] Fix null pointer bug in frame handler
 - [2024-02-18] Add FFT processing utility
 - [2024-02-18] Cleanup logging statements
+- [2024-02-18] Add color conversion routines
