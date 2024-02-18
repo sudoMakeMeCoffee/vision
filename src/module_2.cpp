@@ -96,3 +96,4 @@
 // 2024-02-17 commit 13\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2024-02-18 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2024-02-18 commit 5\n#define MAX_BUFFER 256
+// 2024-02-18 commit 7\nusing namespace std;
