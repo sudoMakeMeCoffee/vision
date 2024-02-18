@@ -111,3 +111,4 @@
 // 2024-02-17 commit 3\nint threshold = abs(a - b);
 // 2024-02-17 commit 5\nvoid processImage() { /* stub */ }
 // 2024-02-18 commit 3\nclass ImageProcessor { public: void run(); };
+// 2024-02-18 commit 4\n#define MAX_BUFFER 256
