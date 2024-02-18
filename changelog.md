@@ -420,3 +420,4 @@
 - [2024-02-17] Improve error handling in utils
 - [2024-02-17] Initialize vision repo structure
 - [2024-02-17] Implement edge detection class
+- [2024-02-18] Add unit tests for ImageProcessor
