@@ -94,3 +94,4 @@
 // 2024-02-17 commit 9\n#define MAX_BUFFER 256
 // 2024-02-17 commit 11\nstd::cout << "Loading frame..." << std::endl;
 // 2024-02-17 commit 13\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2024-02-18 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);

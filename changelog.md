@@ -421,3 +421,4 @@
 - [2024-02-17] Initialize vision repo structure
 - [2024-02-17] Implement edge detection class
 - [2024-02-18] Add unit tests for ImageProcessor
+- [2024-02-18] Add FFT processing utility
