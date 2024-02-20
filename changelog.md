@@ -432,3 +432,4 @@
 - [2024-02-20] Refactor image buffer manager
 - [2024-02-20] Implement edge detection class
 - [2024-02-20] Refactor image buffer manager
+- [2024-02-20] Add FFT processing utility
