@@ -427,3 +427,4 @@
 - [2024-02-18] Cleanup logging statements
 - [2024-02-18] Add color conversion routines
 - [2024-02-18] Improve error handling in utils
+- [2024-02-20] Improve error handling in utils
