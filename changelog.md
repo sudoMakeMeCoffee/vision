@@ -434,3 +434,4 @@
 - [2024-02-20] Refactor image buffer manager
 - [2024-02-20] Add FFT processing utility
 - [2024-02-20] Initialize vision repo structure
+- [2024-02-20] Add FFT processing utility
