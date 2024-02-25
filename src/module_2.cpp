@@ -100,3 +100,4 @@
 // 2024-02-20 commit 3\nstd::vector<double> window;
 // 2024-02-20 commit 4\n#define MAX_BUFFER 256
 // 2024-02-20 commit 7\nusing namespace std;
+// 2024-02-25 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
