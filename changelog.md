@@ -440,3 +440,4 @@
 - [2024-02-25] Cleanup logging statements
 - [2024-02-25] Refactor image buffer manager
 - [2024-02-25] Optimize convolution operation
+- [2024-02-25] Fix null pointer bug in frame handler
