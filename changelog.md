@@ -439,3 +439,4 @@
 - [2024-02-25] Add image loading module
 - [2024-02-25] Cleanup logging statements
 - [2024-02-25] Refactor image buffer manager
+- [2024-02-25] Optimize convolution operation
