@@ -438,3 +438,4 @@
 - [2024-02-25] Add FFT processing utility
 - [2024-02-25] Add image loading module
 - [2024-02-25] Cleanup logging statements
+- [2024-02-25] Refactor image buffer manager
