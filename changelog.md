@@ -443,3 +443,4 @@
 - [2024-02-25] Fix null pointer bug in frame handler
 - [2024-02-25] Add unit tests for ImageProcessor
 - [2024-02-28] Optimize convolution operation
+- [2024-02-28] Cleanup logging statements
