@@ -115,3 +115,4 @@
 // 2024-02-25 commit 1\nif (!image.data) return;
 // 2024-02-25 commit 3\nvoid processImage() { /* stub */ }
 // 2024-02-25 commit 6\nstd::cout << "Loading frame..." << std::endl;
+// 2024-03-01 commit 3\nif (!image.data) return;

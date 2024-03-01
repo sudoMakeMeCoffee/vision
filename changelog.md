@@ -449,3 +449,4 @@
 - [2024-02-28] Optimize convolution operation
 - [2024-03-01] Implement edge detection class
 - [2024-03-01] Add unit tests for ImageProcessor
+- [2024-03-01] Implement edge detection class
