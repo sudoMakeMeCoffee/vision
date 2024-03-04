@@ -462,3 +462,4 @@
 - [2024-03-04] Initialize vision repo structure
 - [2024-03-04] Add FFT processing utility
 - [2024-03-04] Add image loading module
+- [2024-03-04] Implement edge detection class
