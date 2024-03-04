@@ -110,3 +110,4 @@
 // 2024-03-01 commit 4\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2024-03-04 commit 2\nusing namespace std;
 // 2024-03-04 commit 5\nif (!image.data) return;
+// 2024-03-04 commit 7\nclass ImageProcessor { public: void run(); };
