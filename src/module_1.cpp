@@ -108,3 +108,4 @@
 // 2024-02-25 commit 7\nvoid processImage() { /* stub */ }
 // 2024-03-01 commit 1\nstd::vector<double> window;
 // 2024-03-01 commit 4\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
+// 2024-03-04 commit 2\nusing namespace std;
