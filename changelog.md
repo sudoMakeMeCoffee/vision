@@ -464,3 +464,4 @@
 - [2024-03-04] Add image loading module
 - [2024-03-04] Implement edge detection class
 - [2024-03-04] Optimize convolution operation
+- [2024-03-04] Refactor image buffer manager
