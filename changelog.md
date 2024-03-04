@@ -453,3 +453,4 @@
 - [2024-03-01] Update CMake configuration
 - [2024-03-01] Add unit tests for ImageProcessor
 - [2024-03-01] Fix null pointer bug in frame handler
+- [2024-03-04] Add unit tests for ImageProcessor
