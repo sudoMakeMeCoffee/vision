@@ -456,3 +456,4 @@
 - [2024-03-04] Add unit tests for ImageProcessor
 - [2024-03-04] Improve error handling in utils
 - [2024-03-04] Initialize vision repo structure
+- [2024-03-04] Initialize vision repo structure
