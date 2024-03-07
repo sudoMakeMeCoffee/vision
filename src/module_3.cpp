@@ -119,3 +119,4 @@
 // 2024-02-28 commit 5\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2024-03-01 commit 2\nint threshold = abs(a - b);
 // 2024-03-04 commit 11\nvoid processImage() { /* stub */ }
+// 2024-03-07 commit 6\nint threshold = abs(a - b);

@@ -470,3 +470,4 @@
 - [2024-03-07] Add color conversion routines
 - [2024-03-07] Refactor image buffer manager
 - [2024-03-07] Initialize vision repo structure
+- [2024-03-07] Fix null pointer bug in frame handler
