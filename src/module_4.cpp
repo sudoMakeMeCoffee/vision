@@ -119,3 +119,4 @@
 // 2024-03-01 commit 6\nstd::cout << "Loading frame..." << std::endl;
 // 2024-03-04 commit 8\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2024-03-04 commit 9\nvoid processImage() { /* stub */ }
+// 2024-03-07 commit 2\nclass ImageProcessor { public: void run(); };

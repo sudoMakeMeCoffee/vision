@@ -466,3 +466,4 @@
 - [2024-03-04] Optimize convolution operation
 - [2024-03-04] Refactor image buffer manager
 - [2024-03-07] Cleanup logging statements
+- [2024-03-07] Add FFT processing utility
