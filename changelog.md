@@ -475,3 +475,4 @@
 - [2024-03-07] Fix null pointer bug in frame handler
 - [2024-03-07] Add image loading module
 - [2024-03-07] Implement edge detection class
+- [2024-03-07] Improve error handling in utils
