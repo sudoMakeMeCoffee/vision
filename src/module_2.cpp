@@ -109,3 +109,4 @@
 // 2024-03-04 commit 4\nstd::cout << "Loading frame..." << std::endl;
 // 2024-03-04 commit 6\nif (!image.data) return;
 // 2024-03-07 commit 5\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2024-03-07 commit 12\nusing namespace std;
