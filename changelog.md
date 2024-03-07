@@ -468,3 +468,4 @@
 - [2024-03-07] Cleanup logging statements
 - [2024-03-07] Add FFT processing utility
 - [2024-03-07] Add color conversion routines
+- [2024-03-07] Refactor image buffer manager

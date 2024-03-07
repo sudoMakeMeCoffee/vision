@@ -115,3 +115,4 @@
 // 2024-03-04 commit 12\nvoid processImage() { /* stub */ }
 // 2024-03-07 commit 1\nstd::vector<double> window;
 // 2024-03-07 commit 3\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2024-03-07 commit 4\nusing namespace std;
