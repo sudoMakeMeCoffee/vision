@@ -117,3 +117,4 @@
 // 2024-03-07 commit 3\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2024-03-07 commit 4\nusing namespace std;
 // 2024-03-07 commit 7\nclass ImageProcessor { public: void run(); };
+// 2024-03-07 commit 9\n#define MAX_BUFFER 256
