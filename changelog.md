@@ -481,3 +481,4 @@
 - [2024-03-11] Improve error handling in utils
 - [2024-03-11] Add FFT processing utility
 - [2024-03-11] Add image loading module
+- [2024-03-11] Initialize vision repo structure

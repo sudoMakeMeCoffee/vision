@@ -122,3 +122,4 @@
 // 2024-03-07 commit 2\nclass ImageProcessor { public: void run(); };
 // 2024-03-07 commit 10\nif (!image.data) return;
 // 2024-03-07 commit 11\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
+// 2024-03-11 commit 5\nvoid processImage() { /* stub */ }
