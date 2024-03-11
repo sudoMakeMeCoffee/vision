@@ -487,3 +487,4 @@
 - [2024-03-11] Initialize vision repo structure
 - [2024-03-11] Implement edge detection class
 - [2024-03-11] Update CMake configuration
+- [2024-03-11] Initialize vision repo structure
