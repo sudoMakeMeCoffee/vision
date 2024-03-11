@@ -121,3 +121,4 @@
 // 2024-03-11 commit 1\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2024-03-11 commit 2\nstd::vector<double> window;
 // 2024-03-11 commit 4\nclass ImageProcessor { public: void run(); };
+// 2024-03-11 commit 12\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
