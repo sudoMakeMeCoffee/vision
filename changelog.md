@@ -482,3 +482,4 @@
 - [2024-03-11] Add FFT processing utility
 - [2024-03-11] Add image loading module
 - [2024-03-11] Initialize vision repo structure
+- [2024-03-11] Refactor image buffer manager
