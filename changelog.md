@@ -479,3 +479,4 @@
 - [2024-03-07] Implement edge detection class
 - [2024-03-11] Add color conversion routines
 - [2024-03-11] Improve error handling in utils
+- [2024-03-11] Add FFT processing utility
