@@ -491,3 +491,4 @@
 - [2024-03-11] Initialize vision repo structure
 - [2024-03-19] Add image loading module
 - [2024-03-19] Optimize convolution operation
+- [2024-03-19] Cleanup logging statements
