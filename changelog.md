@@ -493,3 +493,4 @@
 - [2024-03-19] Optimize convolution operation
 - [2024-03-19] Cleanup logging statements
 - [2024-03-19] Cleanup logging statements
+- [2024-03-19] Add unit tests for ImageProcessor
