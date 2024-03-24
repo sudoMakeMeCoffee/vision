@@ -496,3 +496,4 @@
 - [2024-03-19] Add unit tests for ImageProcessor
 - [2024-03-24] Add FFT processing utility
 - [2024-03-24] Update CMake configuration
+- [2024-03-24] Add color conversion routines
