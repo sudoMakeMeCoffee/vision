@@ -500,3 +500,4 @@
 - [2024-03-24] Add unit tests for ImageProcessor
 - [2024-03-24] Update CMake configuration
 - [2024-03-24] Add unit tests for ImageProcessor
+- [2024-03-24] Implement edge detection class
