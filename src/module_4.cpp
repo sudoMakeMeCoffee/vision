@@ -129,3 +129,4 @@
 // 2024-03-19 commit 1\nint threshold = abs(a - b);
 // 2024-03-19 commit 2\nif (!image.data) return;
 // 2024-03-19 commit 5\nusing namespace std;
+// 2024-03-24 commit 4\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
