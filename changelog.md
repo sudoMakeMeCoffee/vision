@@ -494,3 +494,4 @@
 - [2024-03-19] Cleanup logging statements
 - [2024-03-19] Cleanup logging statements
 - [2024-03-19] Add unit tests for ImageProcessor
+- [2024-03-24] Add FFT processing utility
