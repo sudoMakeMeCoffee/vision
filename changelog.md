@@ -509,3 +509,4 @@
 - [2024-04-02] Fix null pointer bug in frame handler
 - [2024-04-02] Implement edge detection class
 - [2024-04-02] Optimize convolution operation
+- [2024-04-02] Cleanup logging statements
