@@ -513,3 +513,4 @@
 - [2024-04-02] Add unit tests for ImageProcessor
 - [2024-04-02] Add unit tests for ImageProcessor
 - [2024-04-02] Improve error handling in utils
+- [2024-04-02] Update CMake configuration
