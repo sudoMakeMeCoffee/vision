@@ -132,3 +132,4 @@
 // 2024-03-24 commit 4\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2024-04-02 commit 1\nstd::vector<double> window;
 // 2024-04-02 commit 3\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2024-04-02 commit 7\nint threshold = abs(a - b);
