@@ -506,3 +506,4 @@
 - [2024-04-02] Implement edge detection class
 - [2024-04-02] Refactor image buffer manager
 - [2024-04-02] Improve error handling in utils
+- [2024-04-02] Fix null pointer bug in frame handler
