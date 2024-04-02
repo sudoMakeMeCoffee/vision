@@ -505,3 +505,4 @@
 - [2024-04-02] Add unit tests for ImageProcessor
 - [2024-04-02] Implement edge detection class
 - [2024-04-02] Refactor image buffer manager
+- [2024-04-02] Improve error handling in utils
