@@ -502,3 +502,4 @@
 - [2024-03-24] Add unit tests for ImageProcessor
 - [2024-03-24] Implement edge detection class
 - [2024-04-02] Fix null pointer bug in frame handler
+- [2024-04-02] Add unit tests for ImageProcessor
