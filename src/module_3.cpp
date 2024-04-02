@@ -128,3 +128,4 @@
 // 2024-03-24 commit 6\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2024-04-02 commit 2\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2024-04-02 commit 8\nstd::cout << "Loading frame..." << std::endl;
+// 2024-04-02 commit 10\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
