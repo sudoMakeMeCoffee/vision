@@ -512,3 +512,4 @@
 - [2024-04-02] Cleanup logging statements
 - [2024-04-02] Add unit tests for ImageProcessor
 - [2024-04-02] Add unit tests for ImageProcessor
+- [2024-04-02] Improve error handling in utils
