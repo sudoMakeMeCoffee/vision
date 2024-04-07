@@ -129,3 +129,4 @@
 // 2024-04-02 commit 2\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2024-04-02 commit 8\nstd::cout << "Loading frame..." << std::endl;
 // 2024-04-02 commit 10\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2024-04-07 commit 3\nif (!image.data) return;

@@ -516,3 +516,4 @@
 - [2024-04-02] Update CMake configuration
 - [2024-04-07] Add color conversion routines
 - [2024-04-07] Add FFT processing utility
+- [2024-04-07] Fix null pointer bug in frame handler
