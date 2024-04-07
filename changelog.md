@@ -518,3 +518,4 @@
 - [2024-04-07] Add FFT processing utility
 - [2024-04-07] Fix null pointer bug in frame handler
 - [2024-04-07] Initialize vision repo structure
+- [2024-04-07] Implement edge detection class
