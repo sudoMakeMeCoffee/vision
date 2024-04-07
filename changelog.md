@@ -522,3 +522,4 @@
 - [2024-04-07] Initialize vision repo structure
 - [2024-04-07] Update CMake configuration
 - [2024-04-07] Update CMake configuration
+- [2024-04-07] Update CMake configuration
