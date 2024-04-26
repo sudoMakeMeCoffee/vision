@@ -524,3 +524,4 @@
 - [2024-04-07] Update CMake configuration
 - [2024-04-07] Update CMake configuration
 - [2024-04-18] Implement edge detection class
+- [2024-04-26] Update CMake configuration
