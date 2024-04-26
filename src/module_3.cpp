@@ -132,3 +132,4 @@
 // 2024-04-07 commit 3\nif (!image.data) return;
 // 2024-04-07 commit 5\nstd::vector<double> window;
 // 2024-04-07 commit 7\nif (!image.data) return;
+// 2024-04-26 commit 3\nstd::cout << "Loading frame..." << std::endl;
