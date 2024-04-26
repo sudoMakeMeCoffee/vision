@@ -134,3 +134,4 @@
 // 2024-04-07 commit 7\nif (!image.data) return;
 // 2024-04-26 commit 3\nstd::cout << "Loading frame..." << std::endl;
 // 2024-04-26 commit 5\nusing namespace std;
+// 2024-04-26 commit 8\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
