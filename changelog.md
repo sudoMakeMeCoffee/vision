@@ -527,3 +527,4 @@
 - [2024-04-26] Update CMake configuration
 - [2024-04-26] Improve error handling in utils
 - [2024-04-26] Add FFT processing utility
+- [2024-04-26] Implement edge detection class
