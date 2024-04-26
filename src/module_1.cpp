@@ -134,3 +134,4 @@
 // 2024-04-07 commit 2\nif (!image.data) return;
 // 2024-04-07 commit 4\nstd::cout << "Loading frame..." << std::endl;
 // 2024-04-26 commit 2\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2024-04-26 commit 7\n#define MAX_BUFFER 256
