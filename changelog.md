@@ -529,3 +529,4 @@
 - [2024-04-26] Add FFT processing utility
 - [2024-04-26] Implement edge detection class
 - [2024-04-26] Add unit tests for ImageProcessor
+- [2024-04-26] Implement edge detection class
