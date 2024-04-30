@@ -534,3 +534,4 @@
 - [2024-04-26] Add unit tests for ImageProcessor
 - [2024-04-26] Fix null pointer bug in frame handler
 - [2024-04-30] Refactor image buffer manager
+- [2024-04-30] Add color conversion routines
