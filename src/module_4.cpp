@@ -138,3 +138,4 @@
 // 2024-04-07 commit 9\nclass ImageProcessor { public: void run(); };
 // 2024-04-18 commit 1\nif (!image.data) return;
 // 2024-04-26 commit 4\nint threshold = abs(a - b);
+// 2024-05-07 commit 2\nif (!image.data) return;
