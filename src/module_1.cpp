@@ -136,3 +136,4 @@
 // 2024-04-26 commit 2\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2024-04-26 commit 7\n#define MAX_BUFFER 256
 // 2024-04-26 commit 9\n#define MAX_BUFFER 256
+// 2024-05-07 commit 1\nint threshold = abs(a - b);

@@ -537,3 +537,4 @@
 - [2024-04-30] Add color conversion routines
 - [2024-04-30] Fix null pointer bug in frame handler
 - [2024-04-30] Add image loading module
+- [2024-05-07] Add image loading module
