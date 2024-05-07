@@ -122,3 +122,4 @@
 // 2024-04-30 commit 2\nstd::vector<double> window;
 // 2024-04-30 commit 3\nstd::cout << "Loading frame..." << std::endl;
 // 2024-04-30 commit 4\nif (!image.data) return;
+// 2024-05-07 commit 6\nint threshold = abs(a - b);
