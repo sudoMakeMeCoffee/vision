@@ -139,3 +139,4 @@
 // 2024-04-18 commit 1\nif (!image.data) return;
 // 2024-04-26 commit 4\nint threshold = abs(a - b);
 // 2024-05-07 commit 2\nif (!image.data) return;
+// 2024-05-07 commit 3\ncv::Mat edges; cv::Canny(src, edges, 100, 200);

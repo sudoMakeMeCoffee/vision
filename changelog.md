@@ -539,3 +539,4 @@
 - [2024-04-30] Add image loading module
 - [2024-05-07] Add image loading module
 - [2024-05-07] Refactor image buffer manager
+- [2024-05-07] Fix null pointer bug in frame handler
