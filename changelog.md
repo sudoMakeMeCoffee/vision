@@ -547,3 +547,4 @@
 - [2024-05-14] Add FFT processing utility
 - [2024-05-14] Initialize vision repo structure
 - [2024-05-14] Improve error handling in utils
+- [2024-05-14] Refactor image buffer manager
