@@ -543,3 +543,4 @@
 - [2024-05-07] Implement edge detection class
 - [2024-05-07] Add color conversion routines
 - [2024-05-07] Add image loading module
+- [2024-05-14] Fix null pointer bug in frame handler
