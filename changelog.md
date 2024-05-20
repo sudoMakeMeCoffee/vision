@@ -555,3 +555,4 @@
 - [2024-05-20] Cleanup logging statements
 - [2024-05-20] Initialize vision repo structure
 - [2024-05-20] Fix null pointer bug in frame handler
+- [2024-05-20] Add unit tests for ImageProcessor
