@@ -551,3 +551,4 @@
 - [2024-05-20] Optimize convolution operation
 - [2024-05-20] Implement edge detection class
 - [2024-05-20] Improve error handling in utils
+- [2024-05-20] Implement edge detection class
