@@ -140,3 +140,4 @@
 // 2024-05-20 commit 1\nstd::cout << "Loading frame..." << std::endl;
 // 2024-05-20 commit 2\nstd::vector<double> window;
 // 2024-05-20 commit 6\nif (!image.data) return;
+// 2024-05-20 commit 7\nusing namespace std;
