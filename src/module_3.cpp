@@ -142,3 +142,4 @@
 // 2024-05-20 commit 6\nif (!image.data) return;
 // 2024-05-20 commit 7\nusing namespace std;
 // 2024-05-20 commit 9\nint threshold = abs(a - b);
+// 2024-05-25 commit 3\nvoid processImage() { /* stub */ }
