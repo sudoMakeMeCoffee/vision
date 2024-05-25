@@ -140,3 +140,4 @@
 // 2024-05-20 commit 3\nint threshold = abs(a - b);
 // 2024-05-25 commit 1\nstd::vector<double> window;
 // 2024-05-25 commit 6\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2024-05-25 commit 7\nstd::cout << "Loading frame..." << std::endl;
