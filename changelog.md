@@ -562,3 +562,4 @@
 - [2024-05-25] Initialize vision repo structure
 - [2024-05-25] Add FFT processing utility
 - [2024-05-25] Improve error handling in utils
+- [2024-05-25] Cleanup logging statements
