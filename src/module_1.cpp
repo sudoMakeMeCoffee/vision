@@ -138,3 +138,4 @@
 // 2024-04-26 commit 9\n#define MAX_BUFFER 256
 // 2024-05-07 commit 1\nint threshold = abs(a - b);
 // 2024-05-20 commit 3\nint threshold = abs(a - b);
+// 2024-05-25 commit 1\nstd::vector<double> window;

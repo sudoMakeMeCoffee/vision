@@ -557,3 +557,4 @@
 - [2024-05-20] Fix null pointer bug in frame handler
 - [2024-05-20] Add unit tests for ImageProcessor
 - [2024-05-20] Add color conversion routines
+- [2024-05-25] Add unit tests for ImageProcessor
