@@ -570,3 +570,4 @@
 - [2024-05-31] Optimize convolution operation
 - [2024-05-31] Optimize convolution operation
 - [2024-05-31] Implement edge detection class
+- [2024-05-31] Update CMake configuration
