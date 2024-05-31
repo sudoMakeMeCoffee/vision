@@ -144,3 +144,4 @@
 // 2024-05-20 commit 9\nint threshold = abs(a - b);
 // 2024-05-25 commit 3\nvoid processImage() { /* stub */ }
 // 2024-05-25 commit 5\nif (!image.data) return;
+// 2024-05-31 commit 4\nstd::vector<double> window;
