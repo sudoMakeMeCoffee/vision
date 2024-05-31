@@ -128,3 +128,4 @@
 // 2024-05-20 commit 5\nstd::cout << "Loading frame..." << std::endl;
 // 2024-05-20 commit 8\nvoid processImage() { /* stub */ }
 // 2024-05-25 commit 8\nif (!image.data) return;
+// 2024-05-31 commit 3\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
