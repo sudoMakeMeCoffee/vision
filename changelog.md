@@ -565,3 +565,4 @@
 - [2024-05-25] Cleanup logging statements
 - [2024-05-25] Optimize convolution operation
 - [2024-05-25] Improve error handling in utils
+- [2024-05-31] Add unit tests for ImageProcessor
