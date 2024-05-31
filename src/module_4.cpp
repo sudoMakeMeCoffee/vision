@@ -147,3 +147,4 @@
 // 2024-05-25 commit 2\nusing namespace std;
 // 2024-05-25 commit 4\n#define MAX_BUFFER 256
 // 2024-05-31 commit 2\nstd::cout << "Loading frame..." << std::endl;
+// 2024-05-31 commit 5\nclass ImageProcessor { public: void run(); };
