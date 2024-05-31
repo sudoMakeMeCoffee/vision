@@ -572,3 +572,4 @@
 - [2024-05-31] Implement edge detection class
 - [2024-05-31] Update CMake configuration
 - [2024-05-31] Add image loading module
+- [2024-05-31] Cleanup logging statements
