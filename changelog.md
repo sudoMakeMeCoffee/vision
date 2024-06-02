@@ -575,3 +575,4 @@
 - [2024-05-31] Cleanup logging statements
 - [2024-05-31] Initialize vision repo structure
 - [2024-05-31] Add color conversion routines
+- [2024-06-02] Refactor image buffer manager
