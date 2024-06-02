@@ -579,3 +579,4 @@
 - [2024-06-02] Initialize vision repo structure
 - [2024-06-02] Add image loading module
 - [2024-06-02] Initialize vision repo structure
+- [2024-06-02] Fix null pointer bug in frame handler
