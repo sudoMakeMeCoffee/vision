@@ -146,3 +146,4 @@
 // 2024-05-31 commit 10\nstd::vector<double> window;
 // 2024-06-02 commit 2\nint threshold = abs(a - b);
 // 2024-06-02 commit 5\nclass ImageProcessor { public: void run(); };
+// 2024-06-02 commit 6\nclass ImageProcessor { public: void run(); };
