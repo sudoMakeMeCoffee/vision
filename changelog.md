@@ -577,3 +577,4 @@
 - [2024-05-31] Add color conversion routines
 - [2024-06-02] Refactor image buffer manager
 - [2024-06-02] Initialize vision repo structure
+- [2024-06-02] Add image loading module
