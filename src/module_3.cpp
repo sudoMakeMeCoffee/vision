@@ -147,3 +147,4 @@
 // 2024-05-31 commit 4\nstd::vector<double> window;
 // 2024-05-31 commit 9\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
 // 2024-06-06 commit 2\nvoid processImage() { /* stub */ }
+// 2024-06-06 commit 3\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
