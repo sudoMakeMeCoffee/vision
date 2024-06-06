@@ -590,3 +590,4 @@
 - [2024-06-06] Cleanup logging statements
 - [2024-06-06] Fix null pointer bug in frame handler
 - [2024-06-06] Add FFT processing utility
+- [2024-06-06] Add unit tests for ImageProcessor
