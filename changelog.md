@@ -588,3 +588,4 @@
 - [2024-06-06] Improve error handling in utils
 - [2024-06-06] Refactor image buffer manager
 - [2024-06-06] Cleanup logging statements
+- [2024-06-06] Fix null pointer bug in frame handler
