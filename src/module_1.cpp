@@ -147,3 +147,4 @@
 // 2024-06-02 commit 2\nint threshold = abs(a - b);
 // 2024-06-02 commit 5\nclass ImageProcessor { public: void run(); };
 // 2024-06-02 commit 6\nclass ImageProcessor { public: void run(); };
+// 2024-06-06 commit 5\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);

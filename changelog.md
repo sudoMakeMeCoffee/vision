@@ -585,3 +585,4 @@
 - [2024-06-06] Add unit tests for ImageProcessor
 - [2024-06-06] Optimize convolution operation
 - [2024-06-06] Improve error handling in utils
+- [2024-06-06] Improve error handling in utils
