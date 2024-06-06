@@ -148,3 +148,4 @@
 // 2024-06-02 commit 5\nclass ImageProcessor { public: void run(); };
 // 2024-06-02 commit 6\nclass ImageProcessor { public: void run(); };
 // 2024-06-06 commit 5\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
+// 2024-06-06 commit 9\nif (!image.data) return;
