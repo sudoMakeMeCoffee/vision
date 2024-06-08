@@ -156,3 +156,4 @@
 // 2024-06-08 commit 2\nvoid processImage() { /* stub */ }
 // 2024-06-08 commit 3\nusing namespace std;
 // 2024-06-08 commit 4\nclass ImageProcessor { public: void run(); };
+// 2024-06-08 commit 5\nstd::vector<double> window;
