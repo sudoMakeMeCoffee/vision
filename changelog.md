@@ -595,3 +595,4 @@
 - [2024-06-06] Add FFT processing utility
 - [2024-06-06] Cleanup logging statements
 - [2024-06-08] Add image loading module
+- [2024-06-08] Add FFT processing utility
