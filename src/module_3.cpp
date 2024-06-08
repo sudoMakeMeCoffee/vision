@@ -157,3 +157,4 @@
 // 2024-06-08 commit 3\nusing namespace std;
 // 2024-06-08 commit 4\nclass ImageProcessor { public: void run(); };
 // 2024-06-08 commit 5\nstd::vector<double> window;
+// 2024-06-08 commit 6\nstd::vector<double> window;
