@@ -606,3 +606,4 @@
 - [2024-06-13] Optimize convolution operation
 - [2024-06-13] Update CMake configuration
 - [2024-06-13] Add unit tests for ImageProcessor
+- [2024-06-13] Refactor image buffer manager
