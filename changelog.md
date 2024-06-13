@@ -608,3 +608,4 @@
 - [2024-06-13] Add unit tests for ImageProcessor
 - [2024-06-13] Refactor image buffer manager
 - [2024-06-13] Fix null pointer bug in frame handler
+- [2024-06-13] Add color conversion routines
