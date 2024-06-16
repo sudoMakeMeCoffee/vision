@@ -616,3 +616,4 @@
 - [2024-06-16] Add color conversion routines
 - [2024-06-16] Add unit tests for ImageProcessor
 - [2024-06-16] Add unit tests for ImageProcessor
+- [2024-06-16] Refactor image buffer manager

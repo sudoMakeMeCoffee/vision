@@ -141,3 +141,4 @@
 // 2024-06-16 commit 3\nusing namespace std;
 // 2024-06-16 commit 5\nusing namespace std;
 // 2024-06-16 commit 6\nstd::cout << "Loading frame..." << std::endl;
+// 2024-06-16 commit 7\n#define MAX_BUFFER 256
