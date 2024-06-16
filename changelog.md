@@ -615,3 +615,4 @@
 - [2024-06-16] Add image loading module
 - [2024-06-16] Add color conversion routines
 - [2024-06-16] Add unit tests for ImageProcessor
+- [2024-06-16] Add unit tests for ImageProcessor
