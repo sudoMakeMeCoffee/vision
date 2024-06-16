@@ -611,3 +611,4 @@
 - [2024-06-13] Add color conversion routines
 - [2024-06-13] Update CMake configuration
 - [2024-06-16] Fix null pointer bug in frame handler
+- [2024-06-16] Cleanup logging statements

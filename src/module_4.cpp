@@ -156,3 +156,4 @@
 // 2024-06-13 commit 2\nvoid processImage() { /* stub */ }
 // 2024-06-13 commit 5\nvoid processImage() { /* stub */ }
 // 2024-06-16 commit 1\nvoid processImage() { /* stub */ }
+// 2024-06-16 commit 2\nint threshold = abs(a - b);
