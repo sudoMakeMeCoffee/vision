@@ -612,3 +612,4 @@
 - [2024-06-13] Update CMake configuration
 - [2024-06-16] Fix null pointer bug in frame handler
 - [2024-06-16] Cleanup logging statements
+- [2024-06-16] Add image loading module
