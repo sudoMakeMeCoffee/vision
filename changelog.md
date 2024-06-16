@@ -618,3 +618,4 @@
 - [2024-06-16] Add unit tests for ImageProcessor
 - [2024-06-16] Refactor image buffer manager
 - [2024-06-16] Improve error handling in utils
+- [2024-06-16] Initialize vision repo structure

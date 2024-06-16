@@ -143,3 +143,4 @@
 // 2024-06-16 commit 6\nstd::cout << "Loading frame..." << std::endl;
 // 2024-06-16 commit 7\n#define MAX_BUFFER 256
 // 2024-06-16 commit 8\n#define MAX_BUFFER 256
+// 2024-06-16 commit 9\nint threshold = abs(a - b);
