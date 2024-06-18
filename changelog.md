@@ -631,3 +631,4 @@
 - [2024-06-18] Initialize vision repo structure
 - [2024-06-18] Add unit tests for ImageProcessor
 - [2024-06-18] Cleanup logging statements
+- [2024-06-18] Implement edge detection class

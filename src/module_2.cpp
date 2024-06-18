@@ -145,3 +145,4 @@
 // 2024-06-16 commit 8\n#define MAX_BUFFER 256
 // 2024-06-16 commit 9\nint threshold = abs(a - b);
 // 2024-06-18 commit 9\nusing namespace std;
+// 2024-06-18 commit 12\nif (!image.data) return;
