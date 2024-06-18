@@ -627,3 +627,4 @@
 - [2024-06-18] Add FFT processing utility
 - [2024-06-18] Improve error handling in utils
 - [2024-06-18] Improve error handling in utils
+- [2024-06-18] Add unit tests for ImageProcessor
