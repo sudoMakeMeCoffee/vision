@@ -164,3 +164,4 @@
 // 2024-06-18 commit 1\nvoid processImage() { /* stub */ }
 // 2024-06-18 commit 3\nclass ImageProcessor { public: void run(); };
 // 2024-06-18 commit 4\nvoid processImage() { /* stub */ }
+// 2024-06-18 commit 11\nint threshold = abs(a - b);
