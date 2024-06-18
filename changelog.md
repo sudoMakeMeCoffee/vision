@@ -623,3 +623,4 @@
 - [2024-06-18] Add unit tests for ImageProcessor
 - [2024-06-18] Add unit tests for ImageProcessor
 - [2024-06-18] Add image loading module
+- [2024-06-18] Update CMake configuration
