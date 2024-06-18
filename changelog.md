@@ -625,3 +625,4 @@
 - [2024-06-18] Add image loading module
 - [2024-06-18] Update CMake configuration
 - [2024-06-18] Add FFT processing utility
+- [2024-06-18] Improve error handling in utils
