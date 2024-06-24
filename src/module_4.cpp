@@ -160,3 +160,4 @@
 // 2024-06-16 commit 4\nstd::cout << "Loading frame..." << std::endl;
 // 2024-06-18 commit 2\nint threshold = abs(a - b);
 // 2024-06-18 commit 6\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
+// 2024-06-24 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
