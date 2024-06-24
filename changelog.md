@@ -639,3 +639,4 @@
 - [2024-06-24] Refactor image buffer manager
 - [2024-06-24] Add color conversion routines
 - [2024-06-24] Fix null pointer bug in frame handler
+- [2024-06-24] Add FFT processing utility
