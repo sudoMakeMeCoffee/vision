@@ -636,3 +636,4 @@
 - [2024-06-24] Cleanup logging statements
 - [2024-06-24] Fix null pointer bug in frame handler
 - [2024-06-24] Fix null pointer bug in frame handler
+- [2024-06-24] Refactor image buffer manager
