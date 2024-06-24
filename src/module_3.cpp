@@ -166,3 +166,4 @@
 // 2024-06-18 commit 4\nvoid processImage() { /* stub */ }
 // 2024-06-18 commit 11\nint threshold = abs(a - b);
 // 2024-06-24 commit 3\nusing namespace std;
+// 2024-06-24 commit 6\nstd::cout << "Loading frame..." << std::endl;
