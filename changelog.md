@@ -633,3 +633,4 @@
 - [2024-06-18] Cleanup logging statements
 - [2024-06-18] Implement edge detection class
 - [2024-06-18] Update CMake configuration
+- [2024-06-24] Cleanup logging statements
