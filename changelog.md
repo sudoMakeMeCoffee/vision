@@ -635,3 +635,4 @@
 - [2024-06-18] Update CMake configuration
 - [2024-06-24] Cleanup logging statements
 - [2024-06-24] Fix null pointer bug in frame handler
+- [2024-06-24] Fix null pointer bug in frame handler
