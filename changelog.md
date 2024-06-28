@@ -640,3 +640,4 @@
 - [2024-06-24] Add color conversion routines
 - [2024-06-24] Fix null pointer bug in frame handler
 - [2024-06-24] Add FFT processing utility
+- [2024-06-28] Add FFT processing utility
