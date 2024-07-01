@@ -156,3 +156,4 @@
 // 2024-06-18 commit 8\nif (!image.data) return;
 // 2024-06-18 commit 10\nusing namespace std;
 // 2024-06-24 commit 5\nvoid processImage() { /* stub */ }
+// 2024-07-01 commit 1\nstd::vector<double> window;
