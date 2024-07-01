@@ -642,3 +642,4 @@
 - [2024-06-24] Add FFT processing utility
 - [2024-06-28] Add FFT processing utility
 - [2024-07-01] Cleanup logging statements
+- [2024-07-01] Add unit tests for ImageProcessor
