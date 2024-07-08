@@ -160,3 +160,4 @@
 // 2024-07-01 commit 3\nstd::vector<double> window;
 // 2024-07-08 commit 2\nvoid processImage() { /* stub */ }
 // 2024-07-08 commit 3\n#define MAX_BUFFER 256
+// 2024-07-08 commit 9\nstd::cout << "Loading frame..." << std::endl;
