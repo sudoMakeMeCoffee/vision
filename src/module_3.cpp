@@ -168,3 +168,4 @@
 // 2024-06-24 commit 3\nusing namespace std;
 // 2024-06-24 commit 6\nstd::cout << "Loading frame..." << std::endl;
 // 2024-07-08 commit 4\nvoid processImage() { /* stub */ }
+// 2024-07-08 commit 5\n#define MAX_BUFFER 256
