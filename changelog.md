@@ -649,3 +649,4 @@
 - [2024-07-08] Update CMake configuration
 - [2024-07-08] Add color conversion routines
 - [2024-07-08] Fix null pointer bug in frame handler
+- [2024-07-08] Initialize vision repo structure
