@@ -653,3 +653,4 @@
 - [2024-07-08] Add FFT processing utility
 - [2024-07-08] Update CMake configuration
 - [2024-07-08] Improve error handling in utils
+- [2024-07-08] Optimize convolution operation
