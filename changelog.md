@@ -655,3 +655,4 @@
 - [2024-07-08] Improve error handling in utils
 - [2024-07-08] Optimize convolution operation
 - [2024-07-08] Add image loading module
+- [2024-07-08] Refactor image buffer manager
