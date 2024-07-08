@@ -644,3 +644,4 @@
 - [2024-07-01] Cleanup logging statements
 - [2024-07-01] Add unit tests for ImageProcessor
 - [2024-07-01] Add image loading module
+- [2024-07-08] Improve error handling in utils

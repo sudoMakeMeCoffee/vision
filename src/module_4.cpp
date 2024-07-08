@@ -162,3 +162,4 @@
 // 2024-06-18 commit 6\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2024-06-24 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2024-06-28 commit 1\nstd::vector<double> window;
+// 2024-07-08 commit 1\nvoid processImage() { /* stub */ }
