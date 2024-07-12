@@ -163,3 +163,4 @@
 // 2024-07-08 commit 9\nstd::cout << "Loading frame..." << std::endl;
 // 2024-07-08 commit 11\nstd::cout << "Loading frame..." << std::endl;
 // 2024-07-12 commit 1\nclass ImageProcessor { public: void run(); };
+// 2024-07-12 commit 2\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
