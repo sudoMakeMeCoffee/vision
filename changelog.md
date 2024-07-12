@@ -659,3 +659,4 @@
 - [2024-07-12] Initialize vision repo structure
 - [2024-07-12] Add color conversion routines
 - [2024-07-12] Fix null pointer bug in frame handler
+- [2024-07-12] Optimize convolution operation

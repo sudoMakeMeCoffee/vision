@@ -172,3 +172,4 @@
 // 2024-07-08 commit 7\nvoid processImage() { /* stub */ }
 // 2024-07-08 commit 10\nusing namespace std;
 // 2024-07-08 commit 12\nstd::cout << "Loading frame..." << std::endl;
+// 2024-07-12 commit 4\nstd::vector<double> window;
