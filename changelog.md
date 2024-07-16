@@ -663,3 +663,4 @@
 - [2024-07-12] Fix null pointer bug in frame handler
 - [2024-07-16] Improve error handling in utils
 - [2024-07-16] Add color conversion routines
+- [2024-07-16] Add image loading module
