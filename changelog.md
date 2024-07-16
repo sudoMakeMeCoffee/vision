@@ -665,3 +665,4 @@
 - [2024-07-16] Add color conversion routines
 - [2024-07-16] Add image loading module
 - [2024-07-16] Add image loading module
+- [2024-07-16] Implement edge detection class
