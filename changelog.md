@@ -661,3 +661,4 @@
 - [2024-07-12] Fix null pointer bug in frame handler
 - [2024-07-12] Optimize convolution operation
 - [2024-07-12] Fix null pointer bug in frame handler
+- [2024-07-16] Improve error handling in utils
