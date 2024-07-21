@@ -155,3 +155,4 @@
 // 2024-07-16 commit 3\nstd::cout << "Loading frame..." << std::endl;
 // 2024-07-16 commit 5\nstd::vector<double> window;
 // 2024-07-21 commit 1\nif (!image.data) return;
+// 2024-07-21 commit 6\nclass ImageProcessor { public: void run(); };
