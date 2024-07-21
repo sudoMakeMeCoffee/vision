@@ -667,3 +667,4 @@
 - [2024-07-16] Add image loading module
 - [2024-07-16] Implement edge detection class
 - [2024-07-16] Fix null pointer bug in frame handler
+- [2024-07-21] Update CMake configuration
