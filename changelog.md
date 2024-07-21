@@ -673,3 +673,4 @@
 - [2024-07-21] Refactor image buffer manager
 - [2024-07-21] Add unit tests for ImageProcessor
 - [2024-07-21] Add unit tests for ImageProcessor
+- [2024-07-21] Update CMake configuration

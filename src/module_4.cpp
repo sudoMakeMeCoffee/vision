@@ -168,3 +168,4 @@
 // 2024-07-16 commit 1\nstd::cout << "Loading frame..." << std::endl;
 // 2024-07-21 commit 2\n#define MAX_BUFFER 256
 // 2024-07-21 commit 5\n#define MAX_BUFFER 256
+// 2024-07-21 commit 7\nif (!image.data) return;
