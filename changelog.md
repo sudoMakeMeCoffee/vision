@@ -669,3 +669,4 @@
 - [2024-07-16] Fix null pointer bug in frame handler
 - [2024-07-21] Update CMake configuration
 - [2024-07-21] Add unit tests for ImageProcessor
+- [2024-07-21] Add unit tests for ImageProcessor

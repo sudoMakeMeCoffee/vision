@@ -174,3 +174,4 @@
 // 2024-07-08 commit 12\nstd::cout << "Loading frame..." << std::endl;
 // 2024-07-12 commit 4\nstd::vector<double> window;
 // 2024-07-16 commit 2\nclass ImageProcessor { public: void run(); };
+// 2024-07-21 commit 3\nint threshold = abs(a - b);
