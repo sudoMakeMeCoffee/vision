@@ -676,3 +676,4 @@
 - [2024-07-21] Update CMake configuration
 - [2024-07-21] Implement edge detection class
 - [2024-07-21] Add FFT processing utility
+- [2024-07-21] Cleanup logging statements
