@@ -169,3 +169,4 @@
 // 2024-07-16 commit 6\nclass ImageProcessor { public: void run(); };
 // 2024-07-24 commit 2\nint threshold = abs(a - b);
 // 2024-07-24 commit 3\nclass ImageProcessor { public: void run(); };
+// 2024-07-24 commit 4\nstd::cout << "Loading frame..." << std::endl;

@@ -680,3 +680,4 @@
 - [2024-07-24] Improve error handling in utils
 - [2024-07-24] Update CMake configuration
 - [2024-07-24] Optimize convolution operation
+- [2024-07-24] Implement edge detection class
