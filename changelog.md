@@ -678,3 +678,4 @@
 - [2024-07-21] Add FFT processing utility
 - [2024-07-21] Cleanup logging statements
 - [2024-07-24] Improve error handling in utils
+- [2024-07-24] Update CMake configuration
