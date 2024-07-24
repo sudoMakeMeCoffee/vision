@@ -171,3 +171,4 @@
 // 2024-07-24 commit 3\nclass ImageProcessor { public: void run(); };
 // 2024-07-24 commit 4\nstd::cout << "Loading frame..." << std::endl;
 // 2024-07-24 commit 7\n#define MAX_BUFFER 256
+// 2024-07-24 commit 8\ncv::Mat edges; cv::Canny(src, edges, 100, 200);

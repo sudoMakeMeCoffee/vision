@@ -684,3 +684,4 @@
 - [2024-07-24] Fix null pointer bug in frame handler
 - [2024-07-24] Update CMake configuration
 - [2024-07-24] Update CMake configuration
+- [2024-07-24] Improve error handling in utils
