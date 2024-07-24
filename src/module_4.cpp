@@ -170,3 +170,4 @@
 // 2024-07-21 commit 5\n#define MAX_BUFFER 256
 // 2024-07-21 commit 7\nif (!image.data) return;
 // 2024-07-24 commit 1\nint threshold = abs(a - b);
+// 2024-07-24 commit 6\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
