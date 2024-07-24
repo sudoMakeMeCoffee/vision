@@ -170,3 +170,4 @@
 // 2024-07-24 commit 2\nint threshold = abs(a - b);
 // 2024-07-24 commit 3\nclass ImageProcessor { public: void run(); };
 // 2024-07-24 commit 4\nstd::cout << "Loading frame..." << std::endl;
+// 2024-07-24 commit 7\n#define MAX_BUFFER 256

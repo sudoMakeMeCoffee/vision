@@ -683,3 +683,4 @@
 - [2024-07-24] Implement edge detection class
 - [2024-07-24] Fix null pointer bug in frame handler
 - [2024-07-24] Update CMake configuration
+- [2024-07-24] Update CMake configuration
