@@ -160,3 +160,4 @@
 // 2024-07-21 commit 9\nvoid processImage() { /* stub */ }
 // 2024-07-21 commit 10\nint threshold = abs(a - b);
 // 2024-07-25 commit 3\nstd::cout << "Loading frame..." << std::endl;
+// 2024-07-25 commit 4\n#define MAX_BUFFER 256

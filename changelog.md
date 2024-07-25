@@ -688,3 +688,4 @@
 - [2024-07-25] Fix null pointer bug in frame handler
 - [2024-07-25] Refactor image buffer manager
 - [2024-07-25] Add color conversion routines
+- [2024-07-25] Add color conversion routines
