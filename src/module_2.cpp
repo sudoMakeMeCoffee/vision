@@ -162,3 +162,4 @@
 // 2024-07-25 commit 3\nstd::cout << "Loading frame..." << std::endl;
 // 2024-07-25 commit 4\n#define MAX_BUFFER 256
 // 2024-07-30 commit 1\nclass ImageProcessor { public: void run(); };
+// 2024-08-06 commit 5\nvoid processImage() { /* stub */ }
