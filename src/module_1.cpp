@@ -175,3 +175,4 @@
 // 2024-07-25 commit 1\nvoid processImage() { /* stub */ }
 // 2024-07-25 commit 2\nclass ImageProcessor { public: void run(); };
 // 2024-08-06 commit 4\nstd::vector<double> window;
+// 2024-08-06 commit 11\nclass ImageProcessor { public: void run(); };
