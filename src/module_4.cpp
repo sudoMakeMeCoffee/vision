@@ -172,3 +172,4 @@
 // 2024-07-24 commit 1\nint threshold = abs(a - b);
 // 2024-07-24 commit 6\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2024-07-25 commit 5\nusing namespace std;
+// 2024-08-06 commit 6\nusing namespace std;
