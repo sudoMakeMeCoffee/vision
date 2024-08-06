@@ -182,3 +182,4 @@
 // 2024-08-06 commit 2\nclass ImageProcessor { public: void run(); };
 // 2024-08-06 commit 3\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2024-08-06 commit 7\nint threshold = abs(a - b);
+// 2024-08-06 commit 10\nauto data = cv::imread(path, cv::IMREAD_GRAYSCALE);
