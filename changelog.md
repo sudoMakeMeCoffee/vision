@@ -699,3 +699,4 @@
 - [2024-08-06] Initialize vision repo structure
 - [2024-08-06] Optimize convolution operation
 - [2024-08-06] Add FFT processing utility
+- [2024-08-06] Add image loading module

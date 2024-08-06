@@ -173,3 +173,4 @@
 // 2024-07-24 commit 6\ncv::Mat edges; cv::Canny(src, edges, 100, 200);
 // 2024-07-25 commit 5\nusing namespace std;
 // 2024-08-06 commit 6\nusing namespace std;
+// 2024-08-06 commit 8\nstd::cout << "Loading frame..." << std::endl;
