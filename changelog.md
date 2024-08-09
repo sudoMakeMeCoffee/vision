@@ -708,3 +708,4 @@
 - [2024-08-09] Refactor image buffer manager
 - [2024-08-09] Add image loading module
 - [2024-08-09] Update CMake configuration
+- [2024-08-09] Improve error handling in utils
