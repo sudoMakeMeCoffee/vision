@@ -711,3 +711,4 @@
 - [2024-08-09] Improve error handling in utils
 - [2024-08-09] Improve error handling in utils
 - [2024-08-09] Initialize vision repo structure
+- [2024-08-29] Improve error handling in utils
